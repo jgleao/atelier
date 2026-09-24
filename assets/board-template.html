@@ -1,0 +1,82 @@
+<!doctype html>
+<!--
+  Board template for the approver. Replace every {{...}}, duplicate .part per section and .option per option
+  (max 2), and point <img> at the reference captures (relative path or file:///). Swap the --accent tokens for the
+  site's brand. Delete this comment.
+-->
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{Page}} board</title>
+<style>
+  :root {
+    --bg: #f6f5f2; --surface: #ffffff; --ink: #16161a; --muted: #5d5d66; --line: #e2e0da;
+    --accent: #3a3aff; --accent-2: #d42a8c;
+    --radius: 14px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #0e0e11; --surface: #17171c; --ink: #f1f0ec; --muted: #9c9ba3; --line: #2a2a31; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 system-ui, sans-serif; }
+  main { padding: 48px clamp(16px, 4vw, 64px) 96px; }
+  h1 { font-size: clamp(28px, 4vw, 48px); line-height: 1.1; margin: 0 0 8px; }
+  .lede { color: var(--muted); max-width: 70ch; margin: 0 0 32px; }
+  .missing { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--accent-2);
+    border-radius: var(--radius); padding: 16px 20px; margin-bottom: 56px; }
+  .missing h2 { font-size: 15px; margin: 0 0 6px; text-transform: uppercase; letter-spacing: .06em; }
+  .missing ul { margin: 0; padding-left: 20px; }
+  .part { border-top: 1px solid var(--line); padding: 40px 0; }
+  .part > header { display: flex; gap: 16px; align-items: baseline; margin-bottom: 20px; }
+  .part .num { font-variant-numeric: tabular-nums; color: var(--accent); font-weight: 700; }
+  .part h2 { font-size: clamp(22px, 2.4vw, 30px); margin: 0; }
+  .part .intent { color: var(--muted); margin: 0 0 24px; max-width: 80ch; }
+  .options { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 560px), 1fr)); gap: 24px; }
+  .option { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; }
+  .option h3 { margin: 0 0 6px; font-size: 18px; }
+  .option .how { margin: 0 0 16px; }
+  .refs { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 8px; }
+  .refs figure { margin: 0; }
+  .refs img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--line); display: block; }
+  .refs figcaption { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+  <h1>{{Page}}</h1>
+  <p class="lede">{{One line: what this board is for and what the approver decides here.}}</p>
+
+  <section class="missing">
+    <h2>{{Still missing}}</h2>
+    <ul>
+      <li>{{Part}}: {{the piece that has no good reference yet}}</li>
+    </ul>
+  </section>
+
+  <section class="part">
+    <header><span class="num">01</span><h2>{{Part name}}</h2></header>
+    <p class="intent">{{What the reader should feel and understand here, one line.}}</p>
+    <div class="options">
+      <article class="option">
+        <h3>{{Option A: the piece, in a few words}}</h3>
+        <p class="how">{{Two lines on how it would look in our brand.}}</p>
+        <div class="refs">
+          <figure><img src="{{path/to/capture-t01.png}}" alt="" loading="lazy"><figcaption>{{ID · source}}</figcaption></figure>
+          <figure><img src="{{path/to/capture-t04.png}}" alt="" loading="lazy"><figcaption>{{ID · source}}</figcaption></figure>
+        </div>
+      </article>
+      <article class="option">
+        <h3>{{Option B}}</h3>
+        <p class="how">{{Two lines.}}</p>
+        <div class="refs">
+          <figure><img src="{{path}}" alt="" loading="lazy"><figcaption>{{ID · source}}</figcaption></figure>
+        </div>
+      </article>
+    </div>
+  </section>
+</main>
+</body>
+</html>
