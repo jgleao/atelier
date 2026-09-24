@@ -6,598 +6,597 @@ Prints: `prints/drb-*.webp`
 
 Search-based. 42 shots opened to the end of the shot page, from the searches: landing page, services page, agency website, software development website, saas features section, process section, about us page, manifesto, dark website, 3d website, web animation. Shot videos: `-v01..v06`. Collected through a real browser (the site blocks automated ones).
 
-Snapshot collected on 2026-09-22. Catalogs change; recount before trusting totals. Findings are factual descriptions in Portuguese: `o que tem` (what it has) and `movimento` (motion).
+Snapshot collected on 2026-09-22. Catalogs change; recount before trusting totals. Findings are factual descriptions: `what it has` and `motion`.
 
 ---
 
 ## R-001 · Dribbble · ChronoTask - Landing Page (Outcrowd)
 - link: https://dribbble.com/shots/25000009-ChronoTask-Landing-Page
 - prints: drb-chronotask-01.webp ... -06.webp
-- o que tem: landing page de SaaS de gestão de tarefas, tema claro (fundo branco e cinza muito claro).
-  Cartões com cantos arredondados e sombra suave por baixo, dando sensação de camadas flutuando sobre
-  o fundo. No topo, duas notas adesivas (post-it) giradas alguns graus, uma amarela com escrita à mão
-  e um selo azul de "check" sobreposto no canto, mais um cartão branco "Reminders" também girado e um
-  ícone de relógio circular flutuando à direita. Título principal em duas cores: metade em preto sólido
-  ("Think, plan, and track"), metade em cinza claro ("all in one place"), técnica de hierarquia por
-  contraste de cor dentro da mesma frase. Rótulos em pílula cinza acima dos títulos de seção
-  ("Solutions", "Pricing", "Testimonials"). Ícones em grade 8x2 (Drive, Gmail, Figma, Slack, Salesforce
-  etc.) sobre fundo pontilhado (grade de pontos cinza-claro), formando textura sutil sem ruído. Cartão
-  central de preço ("Pro plan") elevado do grupo de 3: fundo azul sólido, com um badge amarelo de raio
-  (ícone de energia) sobreposto no canto superior, saindo da borda do cartão. Rodapé com ícones de app
-  espalhados como adesivos soltos (mesma lógica das notas do topo) sobre fundo pontilhado.
-- movimento: parado (sem vídeo neste shot). A composição simula interatividade (cronômetro "04:21:58",
-  botões de play/pause desenhados) mas é imagem estática.
+- what it has: task-management SaaS landing page, light theme (white and very light gray background).
+  Cards with rounded corners and a soft shadow underneath, giving a sense of layers floating over
+  the background. At the top, two rotated sticky notes (post-its), one yellow with handwritten text
+  and a blue "check" stamp overlapping the corner, plus a white "Reminders" card also rotated and a
+  circular clock icon floating to the right. Main title in two colors: half solid black
+  ("Think, plan, and track"), half light gray ("all in one place"), a color-contrast hierarchy
+  technique within the same sentence. Gray pill labels above the section titles
+  ("Solutions", "Pricing", "Testimonials"). Icons in an 8x2 grid (Drive, Gmail, Figma, Slack, Salesforce
+  etc.) over a dotted background (light-gray dot grid), forming a subtle texture with no noise. Central
+  pricing card ("Pro plan") raised above the group of 3: solid blue background, with a yellow lightning-
+  bolt badge (energy icon) overlapping the top corner, spilling off the card's edge. Footer with app
+  icons scattered like loose stickers (same logic as the top notes) over a dotted background.
+- motion: still (no video on this shot). The composition simulates interactivity (timer "04:21:58",
+  drawn play/pause buttons) but it is a static image.
 
-## R-002 · Dribbble · Trading Landing Page Design with Engaging Motion (vino_costa para Roobinium)
+## R-002 · Dribbble · Trading Landing Page Design with Engaging Motion (vino_costa for Roobinium)
 - link: https://dribbble.com/shots/25492218-Trading-Landing-Page-Design-with-Engaging-Motion
 - prints: drb-trading-motion-01.webp, -02.webp, drb-trading-motion-v-01.webp ... -v-06.webp
-- o que tem: landing page de corretora de trading, tema escuro (roxo quase preto, #0a0a14 aprox.), com
-  fundo salpicado de pontinhos brancos pequenos (efeito estrelas). Elemento central: uma forma orgânica
-  tipo gota/bolha de material líquido metálico ocupando a metade inferior da tela, com gradiente
-  dourado/âmbar na borda e reflexo azul-petróleo por baixo, como metal líquido ou vidro fundido
-  iluminado de um lado. Dois cartões pequenos flutuantes com texto ("Trading Pairs", "96%" com barra de
-  progresso) sobrepostos à borda da bolha, com leve desfoque/blur atrás (glassmorphism). O autor mostra
-  duas variantes de cor do mesmo herói: uma com botão "Sign up" branco, outra com botão roxo/violeta.
-  Título grande centralizado, peso bold, branco, texto secundário cinza pequeno abaixo.
-- movimento: a bolha metálica tem animação contínua e lenta (loop): a borda de luz dourada desliza ao
-  longo do contorno da forma e a própria silhueta da bolha se deforma sutilmente, como líquido girando
-  devagar dentro de um recipiente. Vídeo em .mov, sem controles visíveis até clicar na tela (então
-  aparece barra de progresso rosa). Movimento contínuo, não fica parado em nenhum momento; é sutil
-  quadro a quadro, perceptível ao comparar o início e o fim do loop.
+- what it has: trading-brokerage landing page, dark theme (near-black purple, #0a0a14 approx.), with
+  a background speckled with tiny white dots (star effect). Central element: an organic drop/bubble
+  shape of liquid metal material occupying the lower half of the screen, with a gold/amber gradient
+  on the edge and a teal-blue reflection below, like liquid metal or molten glass
+  lit from one side. Two small floating cards with text ("Trading Pairs", "96%" with a progress
+  bar) overlapping the bubble's edge, with a slight blur behind them (glassmorphism). The author shows
+  two color variants of the same hero: one with a white "Sign up" button, another with a purple/violet button.
+  Large centered title, bold weight, white, small gray secondary text below.
+- motion: the metallic bubble has a continuous, slow animation (loop): the golden light edge slides
+  along the shape's outline and the bubble's silhouette itself subtly deforms, like liquid rotating
+  slowly inside a container. Video in .mov, no visible controls until clicking on the screen (then
+  a pink progress bar appears). Continuous motion, never stands still at any point; it is subtle
+  frame to frame, noticeable when comparing the start and end of the loop.
 
-## R-003 · Dribbble · Landing Page for Construction Company, herói (Halo UI/UX para HALO LAB)
+## R-003 · Dribbble · Landing Page for Construction Company, hero (Halo UI/UX for HALO LAB)
 - link: https://dribbble.com/shots/24175820-Landing-Page-for-Construction-Company
 - prints: drb-ranty-hero-01.webp
-- o que tem: home de construtora/incorporadora ("RANTY"). Fundo em gradiente diagonal suave de azul-
-  acinzentado no topo para bege/terracota claro embaixo, como céu ao entardecer. Título enorme em
-  serifa preta "THE PERFECT HOME" ocupando quase a largura toda, quebrado em 3 linhas, com um símbolo
-  de marca registrada pequeno ao lado. Subtítulo em itálico fino "/ We craft custom homes /" entre
-  barras. Botão pílula preto "START" no canto inferior esquerdo. À direita, mockup de cartão sobreposto
-  com cantos arredondados grandes: pílulas de categoria ("Inerior", "Design", badge circular escuro
-  "3D"), texto "Unique design & ergonomics", e um botão de play circular marrom com um cartão menor
-  "ROOMTOUR" ancorado por uma linha fina que sai do botão até o rótulo, sobre foto de interior em tom
-  de madeira clara.
-- movimento: parado nesta parte (a única mídia com vídeo do shot fica na seção de contato, ver R-004).
+- what it has: home page of a construction/development company ("RANTY"). Background in a soft diagonal
+  gradient from grayish-blue at the top to light beige/terracotta at the bottom, like an evening sky.
+  Huge black serif title "THE PERFECT HOME" spanning almost the full width, broken into 3 lines, with
+  a small registered-trademark symbol beside it. Thin italic subtitle "/ We craft custom homes /" between
+  bars. Black pill button "START" in the bottom-left corner. On the right, an overlapping card mockup
+  with large rounded corners: category pills ("Inerior", "Design", dark circular "3D" badge),
+  text "Unique design & ergonomics", and a brown circular play button with a smaller
+  "ROOMTOUR" card anchored by a thin line running from the button to the label, over a photo of an
+  interior in light wood tones.
+- motion: still in this part (the shot's only video media is in the contact section, see R-004).
 
-## R-004 · Dribbble · CTA de contato com baleia e linha animada (Halo UI/UX para HALO LAB)
+## R-004 · Dribbble · Contact CTA with whale and animated line (Halo UI/UX for HALO LAB)
 - link: https://dribbble.com/shots/24175820-Landing-Page-for-Construction-Company
 - prints: drb-halo-whale-v-01.webp ... -v-06.webp
-- o que tem: seção de fechamento/contato, fundo branco. Ilustração 3D realista de uma baleia flutuando
-  na diagonal (cauda rosa por baixo, corpo cinza-azulado com textura de pele molhada e brilho especular),
-  sem base ou cenário, só flutuando no vazio branco. Ao lado, um humano minúsculo (silhueta escura, sem
-  rosto) em pé sobre um pedestal fino, dando escala gigantesca à baleia. Título bold preto "Have a BIG
-  IDEA in mind? Let's discuss what we can achieve together." com "BIG IDEA" destacado em rosa/magenta.
-  Abaixo, 3 avatares circulares sobrepostos (Your Personal Success Team). Antes de clicar, só aparece um
-  traço curvo pequeno perto do texto; a peça inteira é hospedada num elemento de vídeo (controles surgem
-  só ao clicar: play/pause, mudo, barra de progresso rosa).
-- movimento: ao rodar, uma linha fina desenhada à mão se completa sozinha (efeito "line draw"): começa
-  num cacho/espiral pequeno perto de "together.", sobe em arco, desce e termina numa seta apontando para
-  o humano minúsculo ao lado da baleia. O desenho da linha vai se estendendo do início ao fim ao longo do
-  vídeo (progressão clara entre os 6 quadros extraídos); resto da cena (baleia, texto, avatares) fica
-  parado. Vídeo em .mov, sem autoplay, ativa ao clicar na área.
+- what it has: closing/contact section, white background. Realistic 3D illustration of a whale floating
+  diagonally (pink tail below, blue-gray body with wet-skin texture and specular shine),
+  with no base or scenery, just floating in the white void. Beside it, a tiny human (dark silhouette, no
+  face) standing on a thin pedestal, giving the whale a gigantic scale. Bold black title "Have a BIG
+  IDEA in mind? Let's discuss what we can achieve together." with "BIG IDEA" highlighted in pink/magenta.
+  Below, 3 overlapping circular avatars (Your Personal Success Team). Before clicking, only a small
+  curved streak appears near the text; the whole piece is hosted in a video element (controls appear
+  only on click: play/pause, mute, pink progress bar).
+- motion: on playback, a thin hand-drawn line completes itself on its own ("line draw" effect): it starts
+  at a small curl/spiral near "together.", rises in an arc, comes down and ends in an arrow pointing at
+  the tiny human beside the whale. The line's drawing extends from start to finish throughout the
+  video (clear progression across the 6 extracted frames); the rest of the scene (whale, text, avatars) stays
+  still. Video in .mov, no autoplay, activates on clicking the area.
 
-## R-005 · Dribbble · Xurya, Manufacture Landing Page (Dipa UI/UX para Dipa Inhouse)
+## R-005 · Dribbble · Xurya, Manufacture Landing Page (Dipa UI/UX for Dipa Inhouse)
 - link: https://dribbble.com/shots/24874505-Xurya-Manufacture-Landing-Page
 - prints: drb-xurya-solar-01.webp
-- o que tem: site de energia solar, paleta verde-musgo e bege, apresentado como duas páginas completas
-  lado a lado (visão panorâma). Herói com foto real de painéis solares em campo ao entardecer, faixa de
-  estatísticas com números grandes (6 mil / 315 / 120K) ao lado da foto. Fileira de 5 selos circulares
-  de logos de clientes (monocromáticos, em círculo cinza claro) abaixo do herói. Grade de 3 cartões com
-  ícone verde arredondado + título + descrição curta ("Layered security", "Quality control of each
-  part", "Reliable customer service"), repetida em 2 linhas (6 cartões). Na segunda página: foto real de
-  operário carregando um painel solar ao ombro, cartões de serviço numerados (01, 02, 03, 04) em grade
-  2x2 simples só com texto, badge pílula verde "Get in touch" com seta.
-- movimento: parado (composição estática, mockup de página inteira).
+- what it has: solar-energy site, moss-green and beige palette, presented as two full pages
+  side by side (panoramic view). Hero with a real photo of solar panels in a field at dusk, a statistics
+  band with large numbers (6 thousand / 315 / 120K) beside the photo. Row of 5 circular client-logo
+  badges (monochrome, in a light-gray circle) below the hero. Grid of 3 cards with a rounded
+  green icon + title + short description ("Layered security", "Quality control of each
+  part", "Reliable customer service"), repeated in 2 rows (6 cards). On the second page: a real photo of
+  a worker carrying a solar panel on his shoulder, numbered service cards (01, 02, 03, 04) in a simple
+  2x2 grid with text only, green pill badge "Get in touch" with an arrow.
+- motion: still (static composition, full-page mockup).
 
 ## R-006 · Dribbble · Landing Page Design for Lodge Booking, "WoodNest" (Nixtio)
 - link: https://dribbble.com/shots/27389159-Landing-Page-Design-for-Lodge-Booking
 - prints: drb-woodnest-01.webp, -02.webp
-- o que tem: home de reserva de cabanas. Fundo é foto real (não ilustração/3D): cabana de madeira com
-  janelas acesas em laranja quente, em meio a floresta de pinheiros na neblina azul-acinzentada,
-  crepúsculo. Título gigante 3 linhas "Nature's / Perfect / Hideaways", cada linha em tratamento
-  diferente: 1ª e 3ª brancas sólidas, a do meio ("Perfect") em contorno/preenchimento translúcido só
-  contornado, vazando a foto por trás. Painel de reserva flutuante à direita em vidro escuro
-  semitransparente (glassmorphism), com dois seletores de data lado a lado, texto pequeno de horário de
-  check-in/check-out, preço grande "$359/night", contador de hóspedes e botão branco "Reserve". Selo de
-  avaliação (estrela laranja + "4.7 from 1.800+ stays") sobreposto direto na foto, fora de qualquer
-  cartão. Mais abaixo, um selo "Free Estimate" desenhado como etiqueta/carimbo preto levemente girado
-  (rotação de uns 5°, como um adesivo colado meio torto), texto branco dentro.
-- movimento: o próprio shot descreve "transições suaves, movimento ambiental" e tem 2 vídeos incorporados
-  entre o herói e o fecho (não explorados quadro a quadro aqui por tempo; ver texto do autor: motion
-  suave de transição entre telas, não abrupto).
+- what it has: lodge-booking home page. The background is a real photo (not illustration/3D): a wooden
+  lodge with warm orange lit windows, amid a pine forest in bluish-gray mist,
+  twilight. Giant 3-line title "Nature's / Perfect / Hideaways", each line treated
+  differently: 1st and 3rd solid white, the middle one ("Perfect") only outlined with a translucent
+  fill, letting the photo show through behind it. Floating booking panel on the right in dark
+  semi-transparent glass (glassmorphism), with two date pickers side by side, small check-in/
+  check-out time text, a large "$359/night" price, a guest counter and a white "Reserve" button. A
+  rating badge (orange star + "4.7 from 1.800+ stays") overlapping directly on the photo, outside any
+  card. Further down, a "Free Estimate" badge designed like a slightly rotated black label/stamp
+  (rotation of about 5°, like a stuck-on sticker slightly askew), white text inside.
+- motion: the shot itself describes "smooth transitions, ambient motion" and has 2 embedded videos
+  between the hero and the closing section (not explored frame by frame here for time; per the author's text: smooth
+  motion between screen transitions, not abrupt).
 
-## R-007 · Dribbble · Defi Landing Page (Levi Wilson para QClay)
+## R-007 · Dribbble · Defi Landing Page (Levi Wilson for QClay)
 - link: https://dribbble.com/shots/24287189-Defi-Landing-Page
 - prints: drb-qclay-defi-01.webp, -02.webp
-- o que tem: dashboard/landing de app financeiro cripto, fundo quase preto com brilho radial esverdeado
-  suave saindo do centro atrás do título (como uma névoa de luz). Ao redor do título, "nós" flutuantes
-  (pontinho + nome + número: "Cortex 20.945", "Quant 2.945", "Aelf 19.346", "Meeton 440") ligados por
-  linhas curvas finas quase invisíveis que saem do centro, como diagrama de constelação/rede. Título
-  "One-click for Asset Defense" com a última palavra ("Defense") em cinza mais claro que o resto
-  (branco), de novo o recurso de duas cores na mesma frase. Botão pílula escuro "Open App" e botão pílula
-  contornado branco "Discover More" lado a lado. Linhas verticais finas em gradiente (como trilhas de
-  luz caindo) decorando a base central. Indicador de progresso "02/03 · Scroll down" no canto inferior
-  esquerdo com seta pequena, e pontinhos de progresso "DeFi horizons" no canto inferior direito. Rodapé
-  com logos de marcas parceiras em cinza (Vercel, Loom, Cash App, Loops, Zapier, ramp, Raycast) dentro do
-  próprio cartão escuro do herói, não fora dele. No print final do shot: dois mockups de tela lado a lado
-  sobre fundo preto (o app com um mostrador circular tipo velocímetro "+A3.7" e a landing page), como
-  cartão-resumo de portfólio.
-- movimento: play button circular pequeno no topo sugere vídeo embutido no herói (não confirmado /
-  não explorado); indicador "02/03 scroll down" sugere a landing real tem passos sequenciais ao rolar.
+- what it has: crypto financial app dashboard/landing, near-black background with a soft greenish
+  radial glow coming from the center behind the title (like a haze of light). Around the title, floating
+  "nodes" (dot + name + number: "Cortex 20.945", "Quant 2.945", "Aelf 19.346", "Meeton 440") linked by
+  thin, nearly invisible curved lines coming from the center, like a constellation/network diagram. Title
+  "One-click for Asset Defense" with the last word ("Defense") in a lighter gray than the rest
+  (white), again the two-color technique within the same sentence. Dark pill button "Open App" and
+  outlined white pill button "Discover More" side by side. Thin vertical gradient lines (like light
+  trails falling) decorating the central base. Progress indicator "02/03 · Scroll down" in the bottom-left
+  corner with a small arrow, and progress dots "DeFi horizons" in the bottom-right corner. Footer
+  with partner-brand logos in gray (Vercel, Loom, Cash App, Loops, Zapier, ramp, Raycast) inside the
+  hero's own dark card, not outside it. In the shot's final image: two screen mockups side by side
+  over a black background (the app with a circular speedometer-like gauge "+A3.7" and the landing page), like
+  a portfolio summary card.
+- motion: small circular play button at the top suggests an embedded video in the hero (not confirmed /
+  not explored); the "02/03 scroll down" indicator suggests the real landing page has sequential steps on scroll.
 
 ## R-008 · Dribbble · Landing Page Design For a Finance Investment Platform (Conceptzilla)
 - link: https://dribbble.com/shots/16709886-Landing-Page-Design-For-a-Finance-Investment-Platform
 - prints: drb-conceptzilla-finance-01.webp
-- o que tem: app de investimentos. Bloco herói é um retângulo de cor sólida verde-limão vibrante (quase
-  neon) com cantos bem arredondados, ocupando quase a tela toda, flutuando sobre fundo branco (margem
-  branca visível ao redor). Título preto bold "Invest for the Future" com um ícone de estrela/brilho
-  pequeno flutuando ao lado da palavra "for". Botão preto pílula "Download App" com ícone da Apple.
-  Abaixo, link de texto sublinhado por seta "Find Out More ↓". Uma seta curva desenhada à mão (preta,
-  estilo rabisco) sai perto do botão e aponta para a pilha de telas de celular à direita: 3-4 mockups de
-  app financeiro sobrepostos e girados em leque (tela "Market" com busca e filtros de categoria em
-  pílula, tela de gráfico de velas vermelho/verde estilo bolsa, cartões de ação "Apple Inc / Spotify"
-  com ícone de marca, botões "Sell" (vermelho) / "Buy" (o mesmo verde-limão do fundo, criando elo de
-  cor)).
-- movimento: parado.
+- what it has: investment app. The hero block is a rectangle of solid vibrant lime-green (almost
+  neon) with very rounded corners, taking up nearly the whole screen, floating over a white background
+  (visible white margin around it). Bold black title "Invest for the Future" with a small star/sparkle
+  icon floating beside the word "for". Black pill button "Download App" with an Apple icon.
+  Below, an underlined text link with an arrow "Find Out More ↓". A hand-drawn curved arrow (black,
+  scribble style) starts near the button and points to the stack of phone screens on the right: 3-4
+  overlapping financial-app mockups fanned out and rotated (a "Market" screen with search and category
+  filter pills, a red/green candlestick chart screen in a stock-exchange style, stock cards "Apple Inc / Spotify"
+  with brand icon, "Sell" (red) / "Buy" (the same lime-green as the background, creating a color
+  link) buttons).
+- motion: still.
 
 ## R-009 · Dribbble · Keyvo Website (Heyo)
 - link: https://dribbble.com/shots/27214788-Keyvo-Website
 - prints: drb-keyvo-v-01.webp, -02.webp, -03.webp
-- o que tem: plataforma de financiamento/assinatura de veículos. Tema claro, fundo cinza muito claro.
-  Título "Built for the next generation of debt-free vehicle access", parágrafo pequeno abaixo, botão
-  escuro + botão contornado "Join the Waitlist". Cartão de veículo (foto de SUV + "2024 Kia Telluride" +
-  número de identificação), tabela comparativa de credores (linhas com logo do banco, valor mensal,
-  badge "Tier A/B", badge verde "BEST OPTION" na linha vencedora). Seção "Step 1/2/3" com título curto +
-  frase descritiva por etapa (texto de processo numerado, layout simples sem ícone, só número). Cartão
-  de destaque verde-escuro sólido "17%" com legenda "Compound annual growth rate" e tag rosa "CONSUMER
-  TREND" no canto. Bloco final: retângulo verde-limão saturado full-bleed (mesma família de cor do
-  R-008) com ilustração simples em traço (line art) de uma mão tocando um carro numa tela de tablet,
-  texto curto + botões "Book a Demo →" (preto) e "Join the Waitlist" (branco contornado).
-- movimento: o vídeo é um tour de rolagem gravado (scroll-through) da página inteira, não um loop
-  ambiente: caption com tag rosa "INDUSTRY DILEMMA" + frase grande aparece sobre a tela como legenda de
-  vídeo explicativo, a "câmera" avança de seção em seção (herói → comparação de credores → steps → cartão
-  17% → bloco verde final de CTA). Dá pra usar como roteiro de vídeo institucional (legenda + captura de
-  tela real da interface, sequencial).
+- what it has: vehicle financing/subscription platform. Light theme, very light gray background.
+  Title "Built for the next generation of debt-free vehicle access", small paragraph below, a dark
+  button + outlined button "Join the Waitlist". Vehicle card (SUV photo + "2024 Kia Telluride" +
+  identification number), a comparative lender table (rows with bank logo, monthly amount,
+  "Tier A/B" badge, green "BEST OPTION" badge on the winning row). "Step 1/2/3" section with a short title +
+  descriptive sentence per step (numbered process text, simple layout with no icon, just a number). Solid
+  dark-green highlight card "17%" with the caption "Compound annual growth rate" and a pink tag "CONSUMER
+  TREND" in the corner. Final block: full-bleed saturated lime-green rectangle (same color family as
+  R-008) with a simple line-art illustration of a hand touching a car on a tablet screen,
+  short text + buttons "Book a Demo →" (black) and "Join the Waitlist" (white outlined).
+- motion: the video is a recorded scroll-through of the whole page, not an ambient
+  loop: a caption with a pink "INDUSTRY DILEMMA" tag + large sentence appears over the screen like an explainer-
+  video caption, the "camera" advances from section to section (hero → lender comparison → steps → 17%
+  card → final green CTA block). It can be used as a script for an institutional video (caption + real interface
+  screen capture, sequential).
 
-## R-010 · Dribbble · IT Service Responsive Website, Service Page (Ilias Miah para Opndoo Studio)
+## R-010 · Dribbble · IT Service Responsive Website, Service Page (Ilias Miah for Opndoo Studio)
 - link: https://dribbble.com/shots/26238385-IT-Service-Responsive-Website-Service-Page
 - prints: drb-opndoo-itservice-01.webp
-- o que tem: página de serviços de consultoria de TI, tema claro, acento verde-sálvia. Bloco "Satisfied
-  Customers 200k+" com 3 fotos pequenas sobrepostas de pessoas e um "+" indicando mais. Grade "Our
-  Service" com 6 cartões iguais (ícone de contorno arredondado em verde-claro + título bold + 2 linhas de
-  descrição + link "Read More" com seta circular): IT Consulting Services, Data Analytics Solutions,
+- what it has: IT consulting services page, light theme, sage-green accent. "Satisfied
+  Customers 200k+" block with 3 small overlapping photos of people and a "+" indicating more. "Our
+  Service" grid with 6 identical cards (rounded light-green outline icon + bold title + 2-line
+  description + "Read More" link with a circular arrow): IT Consulting Services, Data Analytics Solutions,
   Website Development Service, Cloud Infrastructure Management, Cybersecurity Risk Assessment, SaaS
-  Product Engineering. Carrossel de depoimentos: 3 cartões lado a lado, cada um com 5 estrelas amarelas,
-  texto de citação, foto circular do autor + nome + cargo/empresa, setas de navegação circulares
-  pequenas no canto. Bloco final de CTA em gradiente verde-sálvia para verde mais escuro, título grande
-  com seta apontando para trás antes do texto, botão pílula escuro "Get a Free Consultation". Rodapé
-  escuro com colunas de links (Navigation, My account, Service, Contact Us) e ícones sociais.
-- movimento: parado (composição em mockup de página inteira).
+  Product Engineering. Testimonial carousel: 3 cards side by side, each with 5 yellow stars,
+  quote text, circular author photo + name + title/company, small circular navigation
+  arrows in the corner. Final CTA block in a sage-green to darker-green gradient, large title
+  with a back-pointing arrow before the text, dark pill button "Get a Free Consultation". Dark
+  footer with link columns (Navigation, My account, Service, Contact Us) and social icons.
+- motion: still (full-page mockup composition).
 
 ## R-011 · Dribbble · CTO, Elegant Luxury Lighting E-commerce, Service Page (LAIN UI/UX)
 - link: https://dribbble.com/shots/25763608-CTO-Elegant-Luxury-Lighting-E-commerce-Website-Service-Page
 - prints: drb-lain-lighting-01.webp
-- o que tem: e-commerce de luminárias de luxo, paleta bege/creme e marrom escuro. O elemento mais notável
-  não é a página em si, mas a apresentação do shot inteiro: a imagem inteira da página está inclinada em
-  perspectiva, como uma folha de revista fotografada torta sobre uma mesa (rotação de uns 8-10°), em vez
-  do mockup reto de sempre. Dentro dela: fotos reais de luminárias de mesa (cúpula dourada, base preta)
-  em ambientes internos sóbrios; tipografia serifada grande "PREMIUM QUALITY" cor marrom escura;
-  microtexto de processo numerado ao lado de fotos pequenas ("02 FILAMENT INSTALLATION", "04 SEALING AND
-  TESTING", frase curta explicando cada etapa); frase de assinatura em itálico "With a legacy built on
-  precision and quality, we remain committed to..."; colunas de rodapé (Shipping/Returns/Shop/Legacy,
-  Contact Us/Email/Store/FAQ) também dentro da folha inclinada.
-- movimento: parado.
+- what it has: luxury lighting e-commerce, beige/cream and dark-brown palette. The most notable
+  element is not the page itself, but the presentation of the whole shot: the entire page image is tilted in
+  perspective, like a magazine sheet photographed askew on a table (rotation of about 8-10°), instead
+  of the usual straight mockup. Inside it: real photos of table lamps (golden dome, black base)
+  in sober interior settings; large serif typography "PREMIUM QUALITY" in dark brown color;
+  small numbered-process text beside small photos ("02 FILAMENT INSTALLATION", "04 SEALING AND
+  TESTING", short sentence explaining each step); italic signature phrase "With a legacy built on
+  precision and quality, we remain committed to..."; footer columns (Shipping/Returns/Shop/Legacy,
+  Contact Us/Email/Store/FAQ) also inside the tilted sheet.
+- motion: still.
 
-## R-012 · Dribbble · Exito, landing page service page 3D animation (ALEX BENDER para FANCY)
+## R-012 · Dribbble · Exito, landing page service page 3D animation (ALEX BENDER for FANCY)
 - link: https://dribbble.com/shots/25137850-Exito-landing-page-service-page-3D-animation
 - prints: drb-exito-3dcoins-01.webp
-- o que tem: herói de plataforma financeira (FX trading com IA/quantum computing). Cartão branco com
-  margem visível de fundo lavanda/lilás claro ao redor (moldura de cor, efeito "cartão dentro de
-  cartão", mesma lógica do R-008 mas em tom pastel). Dentro: 3 objetos 3D tipo moeda/disco flutuando em
-  ângulos diferentes (inclinados, não alinhados), material glossy metálico com gradiente roxo para rosa,
-  brilho especular forte de um lado, cada disco com um símbolo abstrato diferente gravado em baixo-
-  relevo na superfície. Título simples preto "Quantum Computing in FX Trading" alinhado à esquerda,
-  parágrafo cinza pequeno abaixo, texto minúsculo "Scroll down ↓" no canto inferior direito do cartão.
-- movimento: título do shot indica "3D animation"; três objetos provavelmente giram devagar (não
-  confirmado nesta captura, só 1 quadro).
+- what it has: financial-platform hero (AI/quantum-computing FX trading). White card with a
+  visible lavender/light-lilac background margin around it (color frame, "card within a
+  card" effect, same logic as R-008 but in a pastel tone). Inside: 3 coin/disc-like 3D objects floating at
+  different angles (tilted, not aligned), glossy metallic material with a purple-to-pink gradient,
+  strong specular shine on one side, each disc with a different abstract symbol engraved in low
+  relief on the surface. Simple black title "Quantum Computing in FX Trading" left-aligned,
+  small gray paragraph below, tiny "Scroll down ↓" text in the card's bottom-right corner.
+- motion: the shot's title indicates "3D animation"; the three objects likely rotate slowly (not
+  confirmed in this capture, only 1 frame).
 
-## R-013 · Dribbble · Service Page, Designer Portfolio Website (Shakibul Islam para Maqaw Design Agency)
+## R-013 · Dribbble · Service Page, Designer Portfolio Website (Shakibul Islam for Maqaw Design Agency)
 - link: https://dribbble.com/shots/26772737-Service-Page-Designer-Portfolio-Website
 - prints: drb-maqaw-portfolio-01.webp
-- o que tem: página de serviços de portfólio de designer, tema claro, acento roxo/violeta. Título
-  "Designing with purpose, crafting with [selo circular pequeno] precision", com pequenas estrelas de
-  brilho (sparkle) soltas ao redor do texto. Botão pílula roxo "Hire Me" ao lado de botão circular só
-  com seta. Print de produto incorporado (mockup de ferramenta de remover fundo de imagem) dentro de um
-  cartão com sombra. Carrossel horizontal "Featured works" com 3 miniaturas de projeto visíveis e setas
-  de navegação circulares roxas. Na coluna seguinte: bloco "Testimonials" com 4 cartões de citação curta
-  + avatar + nome (layout em mosaico, cartões de tamanhos variados). Seção "How my design process works"
-  com 3 passos em coluna (ícone pequeno colorido + título curto + frase descritiva): "Strategy &
-  planning", "Concept development", "Review & refinement". Início de "Frequently asked questions" com
-  pergunta em linha expansível ("What services do you offer?" + ícone circular à direita).
-- movimento: parado.
+- what it has: designer portfolio services page, light theme, purple/violet accent. Title
+  "Designing with purpose, crafting with [small circular badge] precision", with small sparkle
+  stars scattered around the text. Purple pill button "Hire Me" beside a circular button with
+  only an arrow. Embedded product screenshot (mockup of an image background-removal tool) inside a
+  card with a shadow. Horizontal "Featured works" carousel with 3 visible project thumbnails and purple
+  circular navigation arrows. In the next column: a "Testimonials" block with 4 short-quote cards
+  + avatar + name (mosaic layout, cards of varying sizes). "How my design process works" section
+  with 3 steps in a column (small colored icon + short title + descriptive sentence): "Strategy &
+  planning", "Concept development", "Review & refinement". Start of "Frequently asked questions"
+  with an expandable question row ("What services do you offer?" + circular icon on the right).
+- motion: still.
 
-## R-014 · Dribbble · Agency Website Design, 3D Landing Page Hero (Rostyslav Kononenko para Artspire)
+## R-014 · Dribbble · Agency Website Design, 3D Landing Page Hero (Rostyslav Kononenko for Artspire)
 - link: https://dribbble.com/shots/26755718-Agency-Website-Design-3D-Landing-Page-Hero
 - prints: drb-artspire-3dhero-01.webp
-- o que tem: herói de agência de branding renderizado como cena 3D fotorrealista, não como mockup de
-  navegador reto. Um objeto tipo laptop/bloco fica apoiado sobre um pedestal de material aveludado azul
-  escuro, dentro de um ambiente escuro com luz dramática entrando lateral em azul e roxo, refletindo nas
-  superfícies (o pedestal tem uma quina iluminada em azul elétrico de um lado e sombra profunda do
-  outro). Atrás/na "tela" do objeto, um redemoinho/espiral brilhante roxo e preto tipo nebulosa ou
-  portal, com texto sobreposto "It all comes together at one point." + subtítulo, botão branco
-  "Portfolio" e botão escuro "Contact" lado a lado, e mais abaixo uma barra escura arredondada com logos
-  de imprensa (Forbes, Yahoo Finance, Cointelegraph, crypto.news, Benzinga) e rótulo "our project in
+- what it has: branding-agency hero rendered as a photorealistic 3D scene, not as a straight
+  browser mockup. A laptop-like block object rests on a dark-blue velvet-material pedestal,
+  inside a dark environment with dramatic side lighting in blue and purple, reflecting on the
+  surfaces (the pedestal has one edge lit in electric blue on one side and deep shadow on the
+  other). Behind/on the object's "screen," a bright purple-and-black swirl/spiral like a nebula or
+  portal, with overlaid text "It all comes together at one point." + subtitle, a white "Portfolio"
+  button and a dark "Contact" button side by side, and further below a rounded dark bar with press
+  logos (Forbes, Yahoo Finance, Cointelegraph, crypto.news, Benzinga) and the label "our project in
   media".
-- movimento: não verificado (parece imagem estática de still 3D, sem vídeo detectado no topo).
-
+- motion: not verified (looks like a static 3D still image, no video detected at the top).
 ## R-015 · Dribbble · UN, Luxury Modern Real Estate Property Agency Website (LAIN UI/UX)
 - link: https://dribbble.com/shots/27676502-UN-Luxury-Modern-Real-Estate-Property-Agency-Website-Design-UI
 - prints: drb-lain-realestate-01.webp
-- o que tem: site de imobiliária de luxo, duas páginas mostradas lado a lado. Página clara: foto real de
-  casa moderna (concreto, viga em balanço, carro na garagem, luz noturna quente) com título "Discover
-  Property with more Clarity". Logo abaixo, duas fotos recortadas em círculo lado a lado (pessoa andando
-  de vestido, fachada de prédio), não em retângulo, ao lado de bloco de estatística com frase editorial
-  e grade 2x2 de números (340, 98,4%, 14, 1k+) com legenda pequena acima de cada um. Página escura:
-  mapa-múndi em contorno fino branco sobre preto, com pontos/pins circulares brancos marcando
-  localizações, painel lateral de texto (Market trends, Location analysis, Investment insights), título
-  "Understand where the Market is Moving". Abaixo, cartões em verde-oliva claro com formas geométricas
-  abstratas pretas (meia-lua, círculo, recorte orgânico) fazendo de ícone no lugar de ícone literal.
-- movimento: parado.
+- what it has: luxury real-estate agency site, two pages shown side by side. Light page: real photo of a
+  modern house (concrete, cantilevered beam, car in the garage, warm night lighting) with the title
+  "Discover Property with more Clarity". Just below, two circle-cropped photos side by side
+  (a person walking in a dress, a building facade), not rectangular, beside a statistics block with an
+  editorial sentence and a 2x2 grid of numbers (340, 98.4%, 14, 1k+) with a small caption above each.
+  Dark page: world map in a thin white outline over black, with circular white pins marking
+  locations, side text panel (Market trends, Location analysis, Investment insights), title
+  "Understand where the Market is Moving". Below, light olive-green cards with abstract black geometric
+  shapes (half-moon, circle, organic cutout) serving as icons instead of a literal icon.
+- motion: still.
 
 ## R-016 · Dribbble · Sound Design Agency Website (Awsmd)
 - link: https://dribbble.com/shots/21592688-Sound-Design-Agency-Website
 - prints: drb-awsmd-sound-01.webp
-- o que tem: plataforma de descoberta musical, tema claro e colorido. Herói tem foto real de um objeto
-  tipo brinquedo/robô vintage laranja (com fio espiralado, textura plástica brilhante) grande, cortando a
-  borda da imagem. Atrás dele, tipografia fantasma gigante ("Disc..." de "Discover", cortada pela foto),
-  bem clara/baixo contraste, quase invisível, só sugerida. Título real menor e nítido por cima: "Music
-  Discovery Made Easy", 2 botões (preto "Discover More", contornado "Request Music"). Grade "Top Music"
-  com cartões de capa (fotos de still-life coloridas: marmelos/marshmallows amarelos, cubos de gelo,
-  produto verde) cada um com pílula de categoria, data pequena e rótulo "Play now" que aparece por cima
-  no canto. Versão mobile ao lado mostra uma câmera instantânea vermelha brinquedo no lugar do robô
-  laranja, mesma composição.
-- movimento: cartões têm rótulo "Play now" sugerindo player de áudio ao clicar (não testado).
+- what it has: music-discovery platform, light and colorful theme. The hero has a real photo of a
+  vintage orange toy/robot-like object (with a coiled wire, glossy plastic texture), large, cutting off
+  at the image's edge. Behind it, giant ghost typography ("Disc..." from "Discover," cut off by the
+  photo), very light/low contrast, nearly invisible, only suggested. The real, smaller, sharp title over it: "Music
+  Discovery Made Easy", 2 buttons (black "Discover More," outlined "Request Music"). "Top Music"
+  grid with cover cards (colorful still-life photos: yellow quinces/marshmallows, ice cubes,
+  a green product) each with a category pill, a small date and a "Play now" label appearing over it
+  in the corner. A mobile version beside it shows a red toy instant camera instead of the orange
+  robot, same composition.
+- motion: cards have a "Play now" label suggesting an audio player on click (not tested).
 
 ## R-017 · Dribbble · Agency Website Design, Creator Economy Brand (Kris Anfalova)
 - link: https://dribbble.com/shots/27742081-Agency-Website-Design-Creator-Economy-Brand
 - prints: drb-kris-creator-01.webp
-- o que tem: agência de talentos para criadores de conteúdo. Fundo roxo/violeta saturado e escuro com
-  brilho radial suave saindo do centro atrás do título. Seis fotos de pessoas (criadores/influenciadores)
-  espalhadas ao redor do título em posições assimétricas, cada uma recortada não em retângulo nem
-  círculo, mas num formato de escudo/emblema com ponta no topo (pentágono arredondado), como um crachá ou
-  corte de pedra preciosa; cada foto tem uma borda de luz neon colorida diferente (rosa, azul, roxo)
-  combinando com a cena dela. Título central em 3 tratamentos de fonte diferentes na mesma frase: "WE
-  BUILD" em caixa alta condensada bold branca, "CREATOR" em fonte manuscrita/pincel casual itálica,
-  "BUSINESSES" de volta à caixa alta condensada bold. Subtítulo pequeno caixa alta "Turn your audience
-  into an empire", botão pílula branco "Get in touch" com texto em caixa alta espaçada.
-- movimento: parado.
+- what it has: talent agency for content creators. Saturated, dark purple/violet background with a
+  soft radial glow coming from the center behind the title. Six photos of people (creators/influencers)
+  scattered around the title in asymmetric positions, each cropped not into a rectangle nor a
+  circle, but into a shield/emblem shape pointed at the top (rounded pentagon), like a badge or a
+  gemstone cut; each photo has a different colored neon-light border (pink, blue, purple) matching
+  its scene. Central title in 3 different type treatments within the same sentence: "WE
+  BUILD" in bold white condensed uppercase, "CREATOR" in a casual italic script/brush font,
+  "BUSINESSES" back to bold condensed uppercase. Small uppercase subtitle "Turn your audience
+  into an empire", white pill button "Get in touch" with letter-spaced uppercase text.
+- motion: still.
 
 ## R-018 · Dribbble · Custom Software Development Agency Website (Ronas IT | UI/UX Team)
 - link: https://dribbble.com/shots/26918446-Custom-Software-Development-Agency-Website
 - prints: drb-ronasit-software-01.webp
-- o que tem: site de agência de desenvolvimento de software sob encomenda. Fundo azul-marinho bem escuro, quase preto, com acento em amarelo-esverdeado ácido
-  (lima/chartreuse) forte. Título gigante caixa alta "DESIGN. DEVELOPMENT. MAINTENANCE." em 3 linhas,
-  com pequenos rabiscos abstratos (tracinhos soltos tipo garranchos) espalhados perto do texto, textura
-  de fundo com pontos/partículas finas. Faixa de estatística destacada em caixa lima ("1857" reviews
-  across 4 platforms, "50" app development companies, "4.9/5" average rate, o último número maior que os
-  outros dois). Título de seção "Maintenance" em amarelo-lima sobre fundo escuro, parágrafo curto,
-  mockup de laptop com dashboard financeiro (gráfico de barras, cartões de saldo). Dois cartões de fundo
-  lima sólido no rodapé da composição ("Websites and Platforms", "Design Concept") com texto escuro
-  dentro, ao lado da palavra "Design" enorme como rótulo solto.
-- movimento: parado.
+- what it has: custom software development agency site. Very dark, near-black navy background, with a strong
+  acid yellow-green (lime/chartreuse) accent. Giant uppercase title "DESIGN. DEVELOPMENT. MAINTENANCE." in 3 lines,
+  with small abstract scribbles (loose scrawl-like marks) scattered near the text, background
+  texture with fine dots/particles. Highlighted statistic band in a lime box ("1857" reviews
+  across 4 platforms, "50" app development companies, "4.9/5" average rate, the last number larger than the
+  other two). Section title "Maintenance" in yellow-lime over a dark background, short paragraph,
+  laptop mockup with a financial dashboard (bar chart, balance cards). Two solid lime-background
+  cards at the composition's footer ("Websites and Platforms", "Design Concept") with dark text
+  inside, beside the word "Design" huge as a loose label.
+- motion: still.
 
 ## R-019 · Dribbble · NEXORA, Software Development Company Website (Erik Adam)
 - link: https://dribbble.com/shots/27734252-NEXORA-Software-Development-Company-Website
 - prints: drb-nexora-software-01.webp
-- o que tem: site de empresa de desenvolvimento de software, mostrado como página inteira em um só print
-  (mockup vertical completo). Tema claro predominante com um bloco escuro no herói e outro no fecho.
-  Herói escuro: título "MOVES BUSINESS FORWARD." (recortado no topo), parágrafo curto, botão azul "Start
-  a Project →" e link "Explore Our Work →", ícones pequenos soltos flutuando (código "</>", camadas
-  empilhadas) e tag "PRODUCT ENGINEERING", mockups de dashboard e app mobile à direita. Faixa "TRUSTED BY
-  TEAMS BUILDING WHAT'S NEXT" com 6 logotipos fictícios em linha. Seção "OUR SERVICES: FROM FIRST IDEA TO
-  FULL-SCALE PRODUCT" com 5 colunas numeradas (01 a 05, só número + título curto + frase, sem ícone):
-  Product Strategy, UI/UX Design, Software Engineering, AI & Automation, Cloud & DevOps. Seção "SELECTED
-  WORK" com 2 estudos de caso lado a lado (mockup de dashboard financeiro + mockup de app de viagem em
-  3 tamanhos de tela), um deles com mini-faixa de resultado (12 months, 42K+ users, 3.4x faster). Faixa
-  "TECH STACK" com logos de ferramentas (React, Next.js, Node.js, Python, AWS, PostgreSQL, Flutter).
-  Seção "OUR PROCESS" em formato de linha do tempo horizontal pontilhada com 4 marcos (Design, Discover,
-  Launch, Scale) ligados por pontinhos. Fecho escuro "LET'S BUILD SOMETHING USEFUL." com a palavra
-  "USEFUL" em azul, botão azul "Start a Conversation".
-- movimento: parado (mockup estático de página inteira).
+- what it has: software development company site, shown as a full page in a single print
+  (complete vertical mockup). Predominantly light theme with a dark block in the hero and another in the closing.
+  Dark hero: title "MOVES BUSINESS FORWARD." (cropped at the top), short paragraph, blue button "Start
+  a Project →" and link "Explore Our Work →", loose small floating icons (code "</>", stacked
+  layers) and tag "PRODUCT ENGINEERING", dashboard and mobile-app mockups on the right. "TRUSTED BY
+  TEAMS BUILDING WHAT'S NEXT" band with 6 fictional logos in a row. "OUR SERVICES: FROM FIRST IDEA TO
+  FULL-SCALE PRODUCT" section with 5 numbered columns (01 to 05, just a number + short title + sentence, no icon):
+  Product Strategy, UI/UX Design, Software Engineering, AI & Automation, Cloud & DevOps. "SELECTED
+  WORK" section with 2 case studies side by side (financial-dashboard mockup + travel-app mockup in
+  3 screen sizes), one of them with a small results band (12 months, 42K+ users, 3.4x faster). "TECH STACK"
+  band with tool logos (React, Next.js, Node.js, Python, AWS, PostgreSQL, Flutter).
+  "OUR PROCESS" section in a horizontal dotted-timeline format with 4 milestones (Design, Discover,
+  Launch, Scale) linked by dots. Dark closing "LET'S BUILD SOMETHING USEFUL." with the word
+  "USEFUL" in blue, blue button "Start a Conversation".
+- motion: still (static full-page mockup).
 
-## R-020 · Dribbble · codable (Dalibor Hajdinjak para Kreativa Studio)
+## R-020 · Dribbble · codable (Dalibor Hajdinjak for Kreativa Studio)
 - link: https://dribbble.com/shots/25830264-codable
 - prints: drb-codable-spheres-01.webp
-- o que tem: seção de benefícios de um produto de código, apresentada como 4 painéis quadrados escuros
-  lado a lado (grade 2x2), quase preto, com textura de partículas vermelho-alaranjadas finas espalhadas
-  tipo campo de estrelas num dos painéis. Nos outros 3, composições 3D abstratas: várias esferas foscas
-  cinzas de tamanhos diferentes agrupadas, com uma esfera vermelho-coral vibrante e brilhante se
-  destacando entre elas (contraste de cor único no meio do cinza), mais uma forma de prisma/poliedro em
-  contorno fino de linha (wireframe) atravessando o grupo, sombra suave gradiente no chão de cada cena.
-  Cada painel numerado no canto (por exemplo "02 FASTER DELIVERY", "03 HIGHER QUALITY OF RESULTS") com
-  legenda curta em caixa alta.
-- movimento: parado (não confirmado se anima no site real).
+- what it has: benefits section of a code product, presented as 4 dark square panels
+  side by side (2x2 grid), near-black, with a texture of thin red-orange particles scattered
+  like a starfield in one of the panels. In the other 3, abstract 3D compositions: several matte gray
+  spheres of different sizes grouped together, with a vivid, glossy coral-red sphere
+  standing out among them (a unique color contrast amid the gray), plus a prism/polyhedron shape in
+  thin wireframe outline crossing through the group, soft gradient shadow on the floor of each scene.
+  Each panel numbered in the corner (for example "02 FASTER DELIVERY", "03 HIGHER QUALITY OF RESULTS") with
+  a short uppercase caption.
+- motion: still (not confirmed whether it animates on the real site).
 
 ## R-021 · Dribbble · Design Repeatable Workflows, Minimalist Emerald SaaS Features (Airzon Agency)
 - link: https://dribbble.com/shots/27615465-Design-Repeatable-Workflows-Minimalist-Emerald-SaaS-Features
 - prints: drb-airzon-emerald-01.webp
-- o que tem: seção de recursos de SaaS, tema claro, fundo com grade fina de linhas cinza (papel
-  milimetrado) com losangos pequenos marcando as interseções. Grade 2x2 de cartões brancos com borda
-  fina: cada um tem um selinho verde-esmeralda arredondado no canto superior esquerdo (ícone simples
-  branco dentro) e, abaixo, uma ilustração isométrica em traço fino monocromático verde-esmeralda
-  (documentos empilhados, cilindro de banco de dados, blocos conectados por linhas pontilhadas, etiquetas
-  soltas tipo "Extract"/"Data Store" flutuando). Título curto + frase descritiva por cartão: "All inputs,
+- what it has: SaaS features section, light theme, background with a fine gray line grid (graph
+  paper) with small diamonds marking the intersections. 2x2 grid of white cards with a thin
+  border: each has a small rounded emerald-green badge in the top-left corner (simple white icon
+  inside) and, below, a monochromatic thin-line emerald isometric illustration
+  (stacked documents, a database cylinder, blocks connected by dotted lines, loose labels like
+  "Extract"/"Data Store" floating). Short title + descriptive sentence per card: "All inputs,
   one system", "Design repeatable workflows", "Turn complexity into clarity", "One system, many results".
-  Dois botões acima da grade: preto "Request a Demo" e contornado "Start Automating Today".
-- movimento: parado.
+  Two buttons above the grid: black "Request a Demo" and outlined "Start Automating Today".
+- motion: still.
 
 ## R-022 · Dribbble · Features Section Fintech SaaS (Domenico Griffo)
 - link: https://dribbble.com/shots/27745877-Features-Section-Fintech-SaaS
 - prints: drb-domenico-fintech-01.webp
-- o que tem: seção de recursos de cartão corporativo fintech, tema claro. Título em fonte monoespaçada
-  tipo máquina de escrever (estilo terminal/código), botão amarelo sólido "Get started today" ao lado de
-  botão contornado "Book demo". Grade tipo bento (cartões de tamanhos desiguais) com frase curta e
-  direta em cada um, tom conversacional em vez de nome técnico do recurso ("Hand anyone on your team a
+- what it has: fintech corporate-card features section, light theme. Title in a monospace
+  typewriter-like font (terminal/code style), solid yellow button "Get started today" beside a
+  outlined button "Book demo". Bento-style grid (unevenly sized cards) with a short, direct
+  sentence in each one, conversational tone instead of a technical feature name ("Hand anyone on your team a
   live card in under a minute.", "Every swipe your team makes hits your screen the second it happens.",
   "Cap the spend before anyone crosses the line.", "Receipts find their own transactions.", "Your books
-  close while you sleep."), cada frase com setinha de expandir no canto. Dois cartões maiores mostram
-  print real de produto dentro: um cartão de crédito virtual renderizado como objeto (fundo escuro,
-  "SLATE", número mascarado, bandeira Visa) e uma tabela de atividade em tempo real (colunas Merchant,
-  Member, Amount, Updated, linha mais recente destacada em amarelo claro).
-- movimento: parado.
+  close while you sleep."), each sentence with a small expand arrow in the corner. Two larger cards show
+  a real product screenshot inside: a virtual credit card rendered as an object (dark background,
+  "SLATE", masked number, Visa logo) and a real-time activity table (Merchant, Member, Amount, Updated
+  columns, most recent row highlighted in light yellow).
+- motion: still.
 
 ## R-023 · Dribbble · SaaS, Feature Section (Lazar Djordjevic)
 - link: https://dribbble.com/shots/27025776-SaaS-Feature-Section
 - prints: drb-lazar-saasfeature-01.webp
-- o que tem: seção de recursos de SaaS de inteligência de vendas, tema claro. Grade 2x2, cada célula com
-  um mini print realista de UI de produto dentro de uma caixa cinza-claro (cartão de notificação "Buying
-  Signal Detected", detalhe "Announced Series B funding of $45M" com botão "View source", caixa de
-  sugestão com ícone estrela "Suggested Angle"; alerta "High intent windows" com contagem regressiva tipo
-  "<10min left"; rascunho de e-mail sugerido). Abaixo de cada mockup, título curto direto ("Real-time
-  buying signals", "Signal context, not just alerts") e frase descritiva pequena em cinza, título e
-  descrição ficam FORA da caixa cinza do mockup, não dentro.
-- movimento: parado.
+- what it has: sales-intelligence SaaS features section, light theme. 2x2 grid, each cell with
+  a realistic mini product-UI screenshot inside a light-gray box (a "Buying
+  Signal Detected" notification card, detail "Announced Series B funding of $45M" with a "View source" button, a
+  suggestion box with a star icon "Suggested Angle"; a "High intent windows" alert with a countdown like
+  "<10min left"; a suggested-email draft). Below each mockup, a short, direct title ("Real-time
+  buying signals", "Signal context, not just alerts") and a small gray descriptive sentence, title and
+  description sit OUTSIDE the mockup's gray box, not inside.
+- motion: still.
 
 ## R-024 · Dribbble · Design Process Section for Creative Agencies (Yevhen Kaplin)
 - link: https://dribbble.com/shots/26947281-Design-Process-Section-for-Creative-Agencies
 - prints: drb-kaplin-process-01.webp
-- o que tem: seção de processo de agência criativa, tema escuro, quase preto. Título grande cinza-claro
-  "How We Make It Happen". À esquerda, lista vertical de 5 passos numerados (01 a 05): "Know your brand
-  and vision", "Establish a brand strategy", "Exploration & Ideation", "Design & Refinement" (este é o
-  passo ativo: mais destacado, com marcador de pontinho rosa à esquerda e um parágrafo curto explicando a
-  etapa aparece só nele), "Launch". À direita, uma grade de losangos (quadrados girados 45°, não
-  retângulos alinhados) encostados uns nos outros tipo mosaico de diamante: um losango rosa vibrante com
-  um ícone/logo branco abstrato no meio, outro com foto de rosto de pessoa, outro escuro com texto de
-  fundo girado na diagonal ("Our Security and Compliance solution will help you gain the edge..." em
-  fonte grande e baixo contraste, decorativo).
-- movimento: o passo ativo da lista (04) tem destaque visual diferente dos outros, sugerindo que a lista
-  é interativa: clicar/passar o mouse em cada passo deve trocar qual está expandido e talvez qual losango
-  se destaca à direita.
+- what it has: creative-agency process section, dark theme, near black. Large light-gray title
+  "How We Make It Happen". On the left, a vertical list of 5 numbered steps (01 to 05): "Know your brand
+  and vision", "Establish a brand strategy", "Exploration & Ideation", "Design & Refinement" (this is the
+  active step: more highlighted, with a small pink dot marker on the left and a short paragraph explaining the
+  step appears only for it), "Launch". On the right, a grid of diamonds (squares rotated 45°, not
+  aligned rectangles) touching each other like a diamond mosaic: one vivid pink diamond with
+  a white abstract icon/logo in the middle, another with a person's face photo, another dark with
+  background text rotated diagonally ("Our Security and Compliance solution will help you gain the edge..." in
+  a large, low-contrast, decorative font).
+- motion: the active step in the list (04) has a visual highlight different from the others, suggesting the
+  list is interactive: clicking/hovering each step should swap which one is expanded and perhaps which diamond
+  is highlighted on the right.
 
 ## R-025 · Dribbble · Working process section step by step for website (Muthu V)
 - link: https://dribbble.com/shots/27190838-Working-process-section-step-by-step-for-website
 - prints: drb-muthu-process-01.webp
-- o que tem: processo de edição de vídeo, tema escuro. Badge pequeno "3 Step Processing" com pontinho
-  colorido no canto superior esquerdo. Título "My Editing Process" e frase curta. Três colunas iguais
-  (Understand, Edit, Deliver), cada uma com: título, indicador de progresso feito de 3 losangos pequenos
-  coloridos em gradiente laranja (tipo passo 1 de 3, passo 2 de 3, só muda quantos losangos estão
-  preenchidos), frase descritiva curta, e um cartão cinza escuro com uma cena ilustrativa: chamada de
-  vídeo com duas telas sobrepostas rotuladas "+ you" e "+ me"; comparação antes e depois de cor com um
-  controle deslizante vertical dividindo a imagem ao meio; pilha de miniaturas de vídeo exportado em
-  leque. Selo "Framer Template" no rodapé.
-- movimento: o controle deslizante vertical no cartão Edit sugere interação de arrastar para comparar
-  antes e depois, não confirmado nesta captura.
+- what it has: video-editing process, dark theme. Small "3 Step Processing" badge with a colored
+  dot in the top-left corner. Title "My Editing Process" and a short sentence. Three equal columns
+  (Understand, Edit, Deliver), each with: a title, a progress indicator made of 3 small
+  diamonds in an orange gradient (like step 1 of 3, step 2 of 3, only the number of filled diamonds
+  changes), a short descriptive sentence, and a dark-gray card with an illustrative scene:
+  a video call with two overlapping screens labeled "+ you" and "+ me"; a color before-and-after
+  comparison with a vertical slider dividing the image in half; a fanned-out stack of exported
+  video thumbnails. "Framer Template" badge in the footer.
+- motion: the vertical slider in the Edit card suggests a drag interaction to compare
+  before and after, not confirmed in this capture.
 
 ## R-026 · Dribbble · Process Section (Jimmin Bednarsky)
 - link: https://dribbble.com/shots/27459234-Process-Section
 - prints: drb-bednarsky-process-01.webp
-- o que tem: processo de onboarding de um app alemão (meinMPP), apresentado como foto real de duas mãos
-  segurando um tablet contra fundo cinza neutro desfocado, não como mockup plano de tela. Na tela do
-  tablet: título "So funktioniert meinMPP" (Como funciona o meinMPP), duas pílulas de categoria no topo,
-  botão gradiente roxo/rosa "Zum Shop" no canto. Três colunas numeradas (1, 2, 3), cada número dentro de
-  um círculo roxo pequeno, título curto por etapa ("Kolonnenvertrag abschließen", "Shop-Einrichtung",
-  "Go-Live & Team informieren") com frase descritiva pequena embaixo e um ícone simples por coluna.
-  Rodapé da tela: pergunta "Noch offene Fragen?" (Ainda tem dúvidas?) com botão gradiente "Termin buchen"
-  (Marcar reunião).
-- movimento: parado.
+- what it has: onboarding process for a German app (meinMPP), presented as a real photo of two hands
+  holding a tablet against a neutral blurred gray background, not a flat screen mockup. On the
+  tablet's screen: title "So funktioniert meinMPP" (How meinMPP works), two category pills at the top,
+  purple/pink gradient button "Zum Shop" in the corner. Three numbered columns (1, 2, 3), each number inside
+  a small purple circle, a short title per step ("Kolonnenvertrag abschließen", "Shop-Einrichtung",
+  "Go-Live & Team informieren") with a small descriptive sentence below and a simple icon per column.
+  Screen footer: question "Noch offene Fragen?" (Still have questions?) with a gradient button "Termin buchen"
+  (Book a meeting).
+- motion: still.
 
 ## R-027 · Dribbble · Process Section (Royal Parvej)
 - link: https://dribbble.com/shots/27130284-Process-Section
 - prints: drb-parvej-process-01.webp
-- o que tem: processo de ferramenta de limpeza de CRM. Fundo da seção em gradiente verde-menta bem claro
-  e suave. Badge pequeno em pílula "Steps" acima do título "Get results in 10 minutes". Três cartões
-  verde-escuro (contraste com o fundo claro ao redor), cada um com rótulo pequeno em caixa alta verde
-  claro ("CONNECT YOUR CRM", "REVIEW SUGGESTED FIXES", "TURN ON GUARDRAILS"), frase branca bold logo
-  abaixo, e uma cena ilustrativa própria: cartão 1 mostra um ícone quadrado branco central ligado por
-  linhas finas a dois logos redondos (Salesforce azul, HubSpot laranja), tipo diagrama de conexão;
-  cartão 2 mostra 3 selos de ícone com alerta vermelho no canto, linhas descendo até duas etiquetas
-  pílula ("Enrich", "Merge"); cartão 3 mostra um ícone de escudo com chave brilhando em verde-neon no
-  centro, sozinho.
-- movimento: parado.
+- what it has: CRM-cleanup tool process. Section background in a very light, soft mint-green
+  gradient. Small "Steps" pill badge above the title "Get results in 10 minutes". Three dark-green
+  cards (contrast against the light background around them), each with a small light-green
+  uppercase label ("CONNECT YOUR CRM", "REVIEW SUGGESTED FIXES", "TURN ON GUARDRAILS"), a bold white sentence right
+  below, and its own illustrative scene: card 1 shows a central white square icon linked by
+  thin lines to two round logos (blue Salesforce, orange HubSpot), like a connection diagram;
+  card 2 shows 3 icon badges with a red alert in the corner, lines descending to two pill
+  labels ("Enrich", "Merge"); card 3 shows a shield icon with a key glowing in neon green at the
+  center, alone.
+- motion: still.
 
-## R-028 · Dribbble · Apex Consulting, About Us Page Design (Ilias Miah para Opndoo Studio)
+## R-028 · Dribbble · Apex Consulting, About Us Page Design (Ilias Miah for Opndoo Studio)
 - link: https://dribbble.com/shots/26769364-Apex-Consulting-About-Us-Page-Design
 - prints: drb-apex-aboutus-01.webp
-- o que tem: página sobre a empresa de consultoria, tema claro. Faixa de fotos reais em tamanhos
-  desiguais lado a lado (pessoas trabalhando, escritório), a primeira não é foto mas uma etiqueta de
-  papel rotacionada com "TEAM WORK" escrito à mão, como um marcador de página colado torto. Título em
-  dois tons na mesma frase: "HOW YOUR COMPANY STARTED, YOUR JOURNEY, AND MILESTONES." (parte em preto,
-  parte em cinza claro). Pilha de avatares da equipe + ícone de seta circular ao lado. Foto pequena de
-  pessoas comemorando (high-five, camisetas coloridas) emoldurada como um cartão levemente girado, tipo
-  polaroid colada torta. Segunda página: foto com botão de play sobreposto (sugere vídeo depoimento), tag
-  "OUR MISSION/VISION", título "DRIVEN BY PURPOSE, GUIDED BY VISION" (também em dois tons), abas
-  "Mission / Vision" para alternar conteúdo, grade de fotos da equipe com um cartão de céu azul com o
-  logo da empresa por cima.
-- movimento: parado (o botão de play sugere vídeo em algum lugar, não explorado).
+- what it has: consulting-firm about page, light theme. Band of real photos in unequal
+  sizes side by side (people working, office), the first one is not a photo but a rotated
+  paper label with "TEAM WORK" handwritten, like an askew glued page marker. Title in
+  two tones within the same sentence: "HOW YOUR COMPANY STARTED, YOUR JOURNEY, AND MILESTONES." (part in black,
+  part in light gray). Team avatar stack + circular arrow icon beside it. A small photo of
+  people celebrating (high-five, colorful t-shirts) framed like a slightly rotated card, like a
+  crookedly stuck-on polaroid. Second page: a photo with an overlaid play button (suggesting a testimonial video), tag
+  "OUR MISSION/VISION", title "DRIVEN BY PURPOSE, GUIDED BY VISION" (also in two tones), "Mission / Vision"
+  tabs to switch content, a grid of team photos with a blue-sky card with the
+  company logo over it.
+- motion: still (the play button suggests a video somewhere, not explored).
 
 ## R-029 · Dribbble · Bagel AI, About Us page (Habitat)
 - link: https://dribbble.com/shots/27748265-Bagel-AI-About-Us-page
 - prints: drb-bagelai-aboutus-01.webp
-- o que tem: about de SaaS B2B, tema claro com fundo de pontinhos cinza bem sutil. Título "Turn product
-  evidence into business impact, automatically", mas a palavra "evidence" não muda só de cor: ganha um
-  bloco de destaque sólido roxo/azul atrás dela, como um grifo de marca-texto, o resto do título fica
-  preto normal. Ícones circulares pequenos de parceiros/integrações (tipo avatar) espalhados soltos ao
-  redor do título em posições assimétricas, sem linha conectando (mais discreto que o diagrama de nós
-  visto antes). Link pequeno com ícone de play "See how it works". Abaixo, carrossel horizontal de
-  cartões de valores em cores sólidas diferentes (azul-marinho escuro, laranja, roxo/azul), cada um com
-  ícone branco simples + título + frase, setas de navegação circulares (anterior/próximo) centralizadas
-  embaixo do carrossel.
-- movimento: carrossel navegável por setas (confirmado pelos botões, não testado o clique).
+- what it has: B2B SaaS about page, light theme with a very subtle gray dotted background. Title "Turn product
+  evidence into business impact, automatically", but the word "evidence" doesn't just change color: it gets
+  a solid purple/blue highlight block behind it, like a highlighter mark, the rest of the title stays
+  normal black. Small circular partner/integration icons (avatar-like) loosely scattered
+  around the title in asymmetric positions, with no connecting line (more subtle than the node diagram
+  seen before). Small link with a play icon "See how it works". Below, a horizontal carousel of
+  value cards in different solid colors (dark navy, orange, purple/blue), each with a
+  simple white icon + title + sentence, circular navigation arrows (previous/next) centered
+  below the carousel.
+- motion: carousel navigable by arrows (confirmed by the buttons, click not tested).
 
 ## R-030 · Dribbble · Polibio.me, Microbiome Startup Web Design, About Us Page (Samuel Oktavianus)
 - link: https://dribbble.com/shots/18935660-Polibio-me-Microbiome-Startup-Web-Design-About-Us-Page
 - prints: drb-polibio-organic-01.webp
-- o que tem: about de startup de biomedicina do microbioma intestinal. Cartão grande verde-sálvia claro
-  ocupando a tela toda. No topo, uma estrutura 3D orgânica porosa (tipo esponja, coral ou tecido
-  biológico, cheia de furos irregulares) em verde mais escuro, flutuando na diagonal e cortando as duas
-  bordas do cartão, sem base nem cenário. Rótulo pequeno vermelho "We Are" acima da wordmark gigante
-  "polibio.me" em verde bem escuro, caixa baixa, arredondada. Abaixo, frase "We Believe the Gut Microbiome
-  is the future in Biomedicine." e, ao lado, 2 fatos curtos com marcador de check.
-- movimento: parado.
-
+- what it has: about page of a gut-microbiome biomedicine startup. Large light-sage-green card
+  taking up the whole screen. At the top, a porous organic 3D structure (sponge-like, coral, or
+  biological tissue, full of irregular holes) in darker green, floating diagonally and cutting off at both
+  edges of the card, with no base or scenery. Small red "We Are" label above the giant
+  wordmark "polibio.me" in very dark green, lowercase, rounded. Below, the sentence "We Believe the Gut Microbiome
+  is the future in Biomedicine." and, beside it, 2 short facts with a check marker.
+- motion: still.
 ## R-031 · Dribbble · Manifesto page (Rina Hale)
 - link: https://dribbble.com/shots/6918663-Manifesto-page
 - prints: drb-rinahale-manifesto-01.webp
-- o que tem: página de manifesto de empresa, fundo cinza bem claro, layout em 2 colunas desiguais
-  separadas por uma linha vertical fina. Coluna esquerda: título "Why it matters for us" e parágrafo de
-  texto tipo manifesto; a última linha do parágrafo ("today?") aparece com opacidade bem baixa, quase
-  sumindo, como se o texto estivesse desbotando/cortando (sugere "leia mais", sem precisar de um botão
-  explícito). Coluna direita: uma fita/etiqueta vertical laranja-coral com ponta recortada em V embaixo
-  (como um marcador de página ou etiqueta de preço), com o texto "READ MANIFESTO" escrito girado 90°, de
-  baixo para cima.
-- movimento: parado.
+- what it has: company manifesto page, very light gray background, layout in 2 uneven columns
+  separated by a thin vertical line. Left column: title "Why it matters for us" and a manifesto-style
+  paragraph of text; the paragraph's last line ("today?") appears at very low opacity, almost
+  disappearing, as if the text were fading/cutting off (suggesting "read more" without needing an
+  explicit button). Right column: a vertical coral-orange ribbon/label with a V-shaped cut point at
+  the bottom (like a bookmark or price tag), with the text "READ MANIFESTO" rotated 90°, bottom
+  to top.
+- motion: still.
 
 ## R-032 · Dribbble · Design Manifesto (Gabriele Morgan)
 - link: https://dribbble.com/shots/6232114-Design-Manifesto
 - prints: drb-morgan-designmanifesto-01.webp
-- o que tem: peça editorial impressa (não é site, é projeto de mestrado), mas o sistema gráfico vale
-  como referência. Cartões retangulares tipo pôster, alternando fundo vermelho-coral e azul royal,
-  organizados numa grade inteira girada uns 30° na diagonal (tudo torto, tipo mosaico de dominó caído).
-  Cada cartão tem uma frase curta de princípio de design em tipografia grande com pesos e tamanhos
-  misturados na mesma frase (palavras grandes bold ao lado de palavras pequenas ou em itálico fino, ex.
-  "DESIGN IS NOT AESTHETICS" com "IS NOT" em itálico fino e o resto bold), texto de apoio pequeno abaixo.
-- movimento: parado.
+- what it has: printed editorial piece (not a website, it's a master's project), but the graphic
+  system holds up as a reference. Rectangular poster-style cards, alternating coral-red and
+  royal-blue backgrounds, arranged in a whole grid rotated about 30° diagonally (everything askew, like
+  a mosaic of fallen dominoes). Each card has a short design-principle sentence in large typography
+  with mixed weights and sizes within the same sentence (large bold words beside small or thin-italic
+  words, e.g. "DESIGN IS NOT AESTHETICS" with "IS NOT" in thin italic and the rest bold), small
+  supporting text below.
+- motion: still.
 
 ## R-033 · Dribbble · Our manifesto (People Who Global)
 - link: https://dribbble.com/shots/1825769-Our-manifesto
 - prints: drb-peoplewhoglobal-manifesto-01.webp
-- o que tem: foto de um pôster impresso de verdade, preso por dois clipes binder pretos, pendurado numa
-  parede lisa clara. O texto do pôster é um manifesto sobre lidar com doença, composto com tamanhos de
-  fonte bem variados dentro do mesmo parágrafo corrido: palavras-chave aparecem enormes e bold ("PERSON.",
-  "CONTROL", "ASK.", "SHARE IT"), o resto do texto em tamanho normal ou até menor, criando ênfase por
-  TAMANHO em vez de cor. Fundo bege claro neutro atrás do pôster.
-- movimento: parado.
+- what it has: photo of a real printed poster, held by two black binder clips, hung on a
+  plain light wall. The poster's text is a manifesto about dealing with illness, set with widely
+  varied font sizes within the same running paragraph: key words appear huge and bold ("PERSON.",
+  "CONTROL", "ASK.", "SHARE IT"), the rest of the text in normal or even smaller size, creating emphasis by
+  SIZE instead of color. Neutral light-beige background behind the poster.
+- motion: still.
 
 ## R-034 · Dribbble · Dark website Design for Premium Sunglasses (Saiful Islam)
 - link: https://dribbble.com/shots/27140221-Dark-website-Design-for-Premium-Sunglasses-Modern-Web-Design
 - prints: drb-ocular-sunglasses-01.webp
-- o que tem: e-commerce de óculos escuros premium, tema escuro marrom quase preto com névoa/brilho laranja
-  suave ao fundo. Wordmark gigante condensada bold "OCULAR" ocupando quase a largura toda da tela, cor
-  laranja. Por cima, uma silhueta de cabeça e ombros de pessoa usando óculos escuros com lente laranja
-  brilhante, posicionada bem no meio da palavra, quebrando/sobrepondo as letras (as lentes brilham na
-  mesma cor laranja do texto, unindo produto e tipografia numa composição só, em vez de foto e texto
-  empilhados). Barra de navegação simples, botão pílula "Shop Now", texto "THE FUTURE OF OPTICS" e frase
-  curta, link "Experience Clarity ↗" no canto inferior direito.
-- movimento: parado.
+- what it has: premium-sunglasses e-commerce, near-black brown dark theme with a soft orange
+  haze/glow in the background. Giant condensed bold wordmark "OCULAR" spanning almost the whole screen width,
+  orange color. Over it, a silhouette of a person's head and shoulders wearing sunglasses with a bright
+  orange lens, positioned right in the middle of the word, breaking/overlapping the letters (the lenses glow in the
+  same orange color as the text, uniting product and typography into a single composition, instead of
+  photo and text stacked). Simple navigation bar, "Shop Now" pill button, text "THE FUTURE OF OPTICS" and a
+  short sentence, "Experience Clarity ↗" link in the bottom-right corner.
+- motion: still.
 
 ## R-035 · Dribbble · AI Storytelling Chatbot Crypto Website, Cartoon Sci-Fi (Andrii Boichuk)
 - link: https://dribbble.com/shots/27608379-AI-Storytelling-Chatbot-Crypto-Website-Cartoon-Sci-Fi
 - prints: drb-boichuk-space-01.webp, -02.webp
-- o que tem: site de chatbot cripto, tom bem cartunesco e irreverente. Fundo preto de espaço com
-  asteroides cinza de tamanhos variados, estrelinhas brancas espalhadas, cometa com rastro laranja, e um
-  disco-voador cartoon (cúpula verde-oliva, luz amarela por baixo) no canto. Mais abaixo, um personagem
-  cartoon (sapo estilo "Pepe") com capacete de astronauta transparente mostrando um cérebro desenhado
-  dentro, segurando um console de terminal: caixa com borda verde-neon brilhante sobre fundo escuro,
-  título "HOW CAN I HELP?" em fonte de terminal com cursor piscando, campo de texto "Ask PePeGPT...", 
-  botão verde "Ask", e 3 pílulas de pergunta sugerida com ícone de lâmpada ("What is PePeGPT?", "Where to
+- what it has: crypto chatbot site, very cartoonish and irreverent tone. Black space background with
+  gray asteroids of varying sizes, scattered white stars, a comet with an orange trail, and a
+  cartoon flying saucer (olive-green dome, yellow light underneath) in the corner. Further down, a
+  cartoon character (a frog styled after "Pepe") with a transparent astronaut helmet showing a drawn brain
+  inside, holding a terminal console: a box with a bright neon-green border over a dark background,
+  title "HOW CAN I HELP?" in a terminal-style font with a blinking cursor, a "Ask PePeGPT..." text field,
+  a green "Ask" button, and 3 suggested-question pills with a lightbulb icon ("What is PePeGPT?", "Where to
   buy PePeGPT?", "PePeGPT risks?").
-- movimento: cursor piscando no título sugere efeito de "digitação" ao vivo (não confirmado).
+- motion: the blinking cursor in the title suggests a live "typing" effect (not confirmed).
 
-## R-036 · Dribbble · Modern Digital Agency Website Design, "Nexiq" (Sahin Mia para Pixelean)
+## R-036 · Dribbble · Modern Digital Agency Website Design, "Nexiq" (Sahin Mia for Pixelean)
 - link: https://dribbble.com/shots/27480101-Modern-Digital-Agency-Website-Design
 - prints: drb-nexiq-agency-01.webp
-- o que tem: site de agência digital "Nexiq", tema escuro roxo/violeta. Título em dois tons "Creative
-  Design Meets Smart Development" (parte branca, parte roxa), 2 botões, faixa de estatística com 4
-  números (800+ Projects Completed, 5k+ Satisfied Clients, 15+ Years of Experience, 98% Client Retention).
-  Seção "Trusted By Visionaries, Verified by Results" com um cartão de destaque maior (nota "4.9" grande
-  + 5 estrelas + citação) ao lado de 3 cartões de depoimento menores, cada um com aspas grandes decorativas
-  no topo. Seção "Still Have Questions?" com formulário de contato completo (Nome, Telefone, Selecionar
-  Serviço, Mensagem, botão Submit). Rodapé "Let's Start Your Exciting Creative Journey" com cartão de
-  contato (endereço, telefones, e-mail) e colunas de links (Quick Links, Our Expertise).
-- movimento: parado (mockup de página inteira).
+- what it has: "Nexiq" digital agency site, dark purple/violet theme. Two-tone title "Creative
+  Design Meets Smart Development" (part white, part purple), 2 buttons, a statistics band with 4
+  numbers (800+ Projects Completed, 5k+ Satisfied Clients, 15+ Years of Experience, 98% Client Retention).
+  "Trusted By Visionaries, Verified by Results" section with one larger highlighted card (a large "4.9"
+  rating + 5 stars + quote) beside 3 smaller testimonial cards, each with large decorative quote marks
+  at the top. "Still Have Questions?" section with a full contact form (Name, Phone, Select
+  Service, Message, Submit button). Footer "Let's Start Your Exciting Creative Journey" with a contact
+  card (address, phones, email) and link columns (Quick Links, Our Expertise).
+- motion: still (full-page mockup).
 
 ## R-037 · Dribbble · Immersive 3D Website for a Medical Holographic Imaging Pioneer (Klimt Creations)
 - link: https://dribbble.com/shots/26958998-Immersive-3D-Website-for-a-Medical-Holographic-Imaging-Pioneer
 - prints: drb-klimt-hologram-01.webp, -02.webp
-- o que tem: site de empresa de imagem médica holográfica (VetiTech/VetSphere), tudo em fundo preto puro.
-  Primeira cena: painel dividido ao meio, esquerda preta com mockup de tela mostrando um holograma azul-
-  ciano brilhante de um cão em cima de uma plataforma circular (efeito raio de luz vertical tipo scanner),
-  título "VetSphere"; direita em azul royal sólido com ícone de pata numa moldura circular e frase "Same
-  logic, different species" (mostrando que a mesma tecnologia serve pra outra área). Mais abaixo: vários
-  mockups de tela (cada um como uma janela de navegador com 3 pontinhos coloridos no canto, "VETITECH")
-  ligados entre si por linhas curvas azul-ciano brilhantes formando um fluxograma, cada tela com um
-  holograma diferente de parte do corpo (braço analisando ossos, tórax com pulmão destacado em rosa,
-  close-up de pulmão), tudo com aparência de holograma sci-fi (linhas finas de grade, brilho, contorno
-  translúcido).
-- movimento: não confirmado nesta captura (só still), mas a estética de holograma costuma vir com
-  rotação/scan animado.
+- what it has: medical holographic-imaging company site (VetiTech/VetSphere), all on a pure black background.
+  First scene: panel split in half, black left side with a screen mockup showing a bright cyan-blue
+  hologram of a dog over a circular platform (vertical light-beam scanner effect),
+  title "VetSphere"; solid royal-blue right side with a paw icon in a circular frame and the phrase "Same
+  logic, different species" (showing the same technology serves another field). Further down: several
+  screen mockups (each like a browser window with 3 colored dots in the corner, "VETITECH")
+  linked to each other by bright cyan-blue curved lines forming a flowchart, each screen with a
+  different hologram of a body part (an arm analyzing bones, a chest with a lung highlighted in pink,
+  a lung close-up), everything with a sci-fi hologram look (thin grid lines, glow, translucent
+  outline).
+- motion: not confirmed in this capture (still only), but the hologram aesthetic usually comes with
+  animated rotation/scan.
 
 ## R-038 · Dribbble · XIX3D Automotive Visualization, 3D Website Design Cinematic (FANCY)
 - link: https://dribbble.com/shots/27266553-XIX3D-Automotive-Visualization-3D-Website-Design-Cinematic-A
 - prints: drb-xix3d-automotive-01.webp
-- o que tem: configurador 3D de carro pra empresas ("ZENO"). Três carros renderizados de forma
-  fotorrealista num estúdio escuro, luz de neon azul e verde refletindo nos para-choques, faróis acesos
-  em tom ciano/verde brilhante contra o fundo quase preto. Wordmark "Z E N O" com letras bem espaçadas
-  centralizada embaixo, subtítulo "3D car configurator for business", indicador de página "2/4 SCROLL
-  DOWN" no canto. Toda a imagem do shot tem uma moldura própria: pontinhos brancos nos cantos e meios das
-  bordas (como alças de seleção/redimensionamento) e uma borda em gradiente de azul pra verde ao redor do
-  print inteiro.
-- movimento: indicador "2/4 scroll down" sugere que o site real tem 4 telas navegáveis por rolagem.
+- what it has: 3D car configurator for businesses ("ZENO"). Three photorealistically
+  rendered cars in a dark studio, blue and green neon light reflecting on the bumpers, headlights lit
+  in a bright cyan/green tone against a near-black background. Wide-spaced "Z E N O" wordmark
+  centered below, subtitle "3D car configurator for business", page indicator "2/4 SCROLL
+  DOWN" in the corner. The whole shot image has its own frame: white dots at the corners and edge
+  midpoints (like selection/resize handles) and a blue-to-green gradient border around the
+  whole print.
+- motion: "2/4 scroll down" indicator suggests the real site has 4 screens navigable by scrolling.
 
 ## R-039 · Dribbble · Liquid Glass UI Modal Window (Roobinium)
 - link: https://dribbble.com/shots/26536796-Liquid-Glass-UI-Modal-Window
 - prints: drb-roobinium-liquidglass-01.webp
-- o que tem: janela modal de login, fundo escuro. Atrás do modal, uma foto/render de gotas de metal
-  líquido cromado (aspecto mercúrio, bem reflexivo e brilhante) preenchendo a tela. O modal em si tem
-  efeito de vidro fosco translúcido escuro (glassmorphism), abas "Sign In / Join" com traço laranja
-  embaixo da aba ativa, campos de e-mail e senha, botão de olho pra mostrar senha, e 4 botões quadrados
-  arredondados de login social (Google, Apple, X, Discord) lado a lado.
-- movimento: 2 miniaturas de vídeo aparecem embaixo do shot, sugerindo variação animada não explorada
-  aqui.
+- what it has: login modal window, dark background. Behind the modal, a photo/render of chromed
+  liquid-metal drops (mercury-like look, very reflective and shiny) filling the screen. The modal itself has a
+  dark translucent frosted-glass effect (glassmorphism), "Sign In / Join" tabs with an orange underline
+  below the active tab, email and password fields, an eye button to show the password, and 4 rounded
+  square social-login buttons (Google, Apple, X, Discord) side by side.
+- motion: 2 video thumbnails appear below the shot, suggesting an animated variant not explored
+  here.
 
 ## R-040 · Dribbble · Futuristic Web Animation & Creative Development Landing Page (Md Rifat Rijwan Khan)
 - link: https://dribbble.com/shots/27640721-Futuristic-Web-Animation-Creative-Development-Landing-Page
 - prints: drb-blobs-webanim-01.webp
-- o que tem: ferramenta de animação pra sites ("blobs"). Apresentado como foto de um laptop numa mesa de
-  madeira com planta desfocada ao fundo (mesma lógica de R-026: dispositivo real fotografado, não mockup
-  plano). Na tela: fundo verde-escuro quase preto com grade fina de linhas, badge pílula "✓ #1 in the
-  world of development", título "Animation Perfect For your Next Website." com "Perfect" e "Website" em
-  verde-limão brilhante e o resto branco (múltiplas palavras de destaque na mesma frase, não só uma).
-  Botão verde sólido "Get Started →" e botão contornado "Our Pricing". Ao lado, um nó/laço 3D glossy verde
-  translúcido (como um tubo de vidro torcido em nó, brilho forte, transparência). Faixa de logos de
-  clientes (Spotify, Slack, Y Combinator, Discord) na parte de baixo da mesma tela.
-- movimento: não confirmado (still), mas o produto é justamente uma ferramenta de animação, então o real
-  provavelmente anima o nó 3D.
+- what it has: web-animation tool ("blobs"). Presented as a photo of a laptop on a wooden
+  desk with a blurred plant in the background (same logic as R-026: a real photographed device, not a flat
+  mockup). On the screen: near-black dark-green background with a fine line grid, "✓ #1 in the
+  world of development" pill badge, title "Animation Perfect For your Next Website." with "Perfect" and "Website" in
+  bright lime-green and the rest white (multiple highlighted words in the same sentence, not just one).
+  Solid green "Get Started →" button and an outlined "Our Pricing" button. Beside it, a glossy translucent
+  green 3D knot/loop (like a twisted glass tube in a knot, strong shine, transparency). Client-logo
+  band (Spotify, Slack, Y Combinator, Discord) at the bottom of the same screen.
+- motion: not confirmed (still), but the product is precisely an animation tool, so the real site
+  likely animates the 3D knot.
 
-## R-041 · Dribbble · Tourism mountaineering activity page, web animation (JIANGGM para UIGREAT Studio)
+## R-041 · Dribbble · Tourism mountaineering activity page, web animation (JIANGGM for UIGREAT Studio)
 - link: https://dribbble.com/shots/6819302-Tourism-mountaineering-activity-page-web-animation
 - prints: drb-uigreat-mountain-01.webp
-- o que tem: página de turismo de montanhismo. Foto real de pico nevado contra céu azul-petróleo
-  escurecendo pra noite com estrelas no topo. Palavra "MOUTAIN" gigante em branco, com efeito 3D
-  entalhado/em relevo (sombra e luz simulando profundidade, como se a palavra fosse esculpida em pedra),
-  posicionada bem em cima da linha da montanha, quase se misturando com o relevo real da foto atrás.
-  Navegação mínima: ícone de menu hambúrguer, seta de voltar, links "OTHER ACTIVITIES" e "EVENT WEBSITE",
-  "SIGN IN" no canto.
-- movimento: nome do shot inclui "web animation", sugerindo que a palavra ou a cena tem movimento (não
-  confirmado nesta captura, só still).
+- what it has: mountaineering tourism page. Real photo of a snowy peak against a teal-blue sky
+  darkening into night with stars at the top. Giant white word "MOUTAIN," with a 3D
+  carved/embossed effect (shadow and light simulating depth, as if the word were carved in stone),
+  positioned right over the mountain's ridgeline, almost blending into the photo's real relief behind it.
+  Minimal navigation: hamburger menu icon, back arrow, "OTHER ACTIVITIES" and "EVENT WEBSITE" links,
+  "SIGN IN" in the corner.
+- motion: the shot's name includes "web animation," suggesting the word or the scene has motion (not
+  confirmed in this capture, still only).
 
-## R-042 · Dribbble · Eiko, Wooden Furniture Web Animation (Dhimas Mo para Emura)
+## R-042 · Dribbble · Eiko, Wooden Furniture Web Animation (Dhimas Mo for Emura)
 - link: https://dribbble.com/shots/25933562-Eiko-Wooden-Furniture-Web-Animation
 - prints: drb-eiko-furniture-01.webp
-- o que tem: e-commerce de móveis de madeira. Tema claro bege-acinzentado neutro, sem nenhum efeito
-  futurista, contraste com a maioria dos outros achados da coleta. Título em 2 linhas "Crafted by
-  Nature", ao lado um rótulo pequeno entre barras "/FURNITURE/" e frase curta de descrição. Abaixo, 2
-  fotos de produto lado a lado (mesa de trabalho de madeira escura com tampo de vidro, mesa lateral de
-  madeira maciça em forma de ampulheta), fotografia de estúdio limpa, sem sombra dramática nem textura
-  extra.
-- movimento: nome do shot inclui "web animation" (não confirmado nesta captura, só still).
+- what it has: wooden-furniture e-commerce. Neutral grayish-beige light theme, with no
+  futuristic effect at all, a contrast with most of the other findings in this collection. 2-line title "Crafted by
+  Nature", beside it a small label between bars "/FURNITURE/" and a short descriptive sentence. Below, 2
+  product photos side by side (a dark-wood work desk with a glass top, a solid-wood side
+  table shaped like an hourglass), clean studio photography, with no dramatic shadow or extra
+  texture.
+- motion: the shot's name includes "web animation" (not confirmed in this capture, still only).

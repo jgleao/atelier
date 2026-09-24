@@ -6,152 +6,152 @@ Snapshot collected on 2026-09-22. Catalogs change; recount before trusting total
 
 ---
 
-| # | Nome | Gráfico? | Qual |
+| # | Name | Graphic? | Which |
 |---|------|----------|------|
-| 002 | Apple (España) | sim | foto de produto tratada, mão segurando laptop verde com desfoque de movimento no pulso |
-| 007 | ORYZO AI | sim | foto de produto vista de cima, tratada, luz quente dramática, objeto isolado em fundo escuro |
-| 009 | monopo saigon | sim | forma líquida iridescente tipo esfera 3D, gradiente cromático verde/âmbar/vinho |
-| 010 | Apple | sim | logo com brilho de luz azul tratado (glow), fundo quase preto |
-| 011 | Authkit | sim | cartões de vidro fosco translúcidos empilhados, luz de cima tipo holofote |
-| 012 | Awesomic | não | grade flat cinza e laranja, cartões retangulares com miniaturas pequenas de portfólio |
-| 013 | Auros | sim | esfera 3D texturizada com partículas bioluminescentes verde-azul |
-| 014 | Monad | sim | diagrama/ilustração de fluxo de dados com nós, glow verde atrás de um nó central |
-| 015 | AI for Business (Dayos) | sim | objetos 3D empilhados tipo blocos de brinquedo, cores variadas, sombra suave |
-| 016 | Origin Financial | sim | foto tratada de céu com nuvens, full-bleed atrás do texto |
-| 017 | Dub | não | dashboard flat, retangular, sem textura nem 3D |
-| 018 | General Intelligence Company | sim | ilustração pintada à mão de skyline ao pôr do sol |
-| 019 | Ventriloc | sim | gráfico circular de progresso (donut), cartões com cantos assimétricos |
-| 020 | Seline Analytics | sim | mascote ilustrado tipo sticker ao lado do herói |
-| 021 | Duolingo | sim | mascote coruja e personagens ilustrados no herói |
-| 025 | Hyperstudio | sim | mapa múndi em textura pontilhada (dot matrix), fundo preto |
-| 026 | Hyer Aviation | sim | render 3D de jato sobre gradiente de céu |
-| 027 | Air | sim | foto tratada de céu com gradiente azul para laranja |
-| 028 | Cursor | não | screenshots de app de código, flat, sem textura nem 3D |
-| 029 | Gsap | sim | ícone cata-vento colorido e fita torcida tipo hélice de DNA |
-| 030 | Vivid+Co | sim | cubo de vidro 3D com dispersão prismática de luz RGB |
-| 032 | Caldera | sim | textura halftone laranja e roxo em forma de blob recortado |
-| 033 | Slash | sim | gradiente dourado sob linha de gráfico no dashboard escuro |
-| 035 | Factory | sim | gauges circulares (anéis) nos cartões de métricas do dashboard |
-| 036 | Superhuman | sim | foto retrato tratada em luz dourada, cartões de vidro translúcido sobre a foto |
-| 037 | Structured | sim | ilustração tipo pintura a óleo renascentista, moitas texturizadas no rodapé |
-| 038 | dope.security | sim | foto de céu ao entardecer com nuvens, cartão de vidro fosco translúcido |
-| 039 | Dimension | sim | gradiente de luz âmbar para azul cobalto, cartões de vidro fosco, ícones circulares |
-| 040 | Sequel | sim | foto retrato tratada, luz natural de janela, ambiente doméstico |
-| 041 | Calendly.com | sim | blobs orgânicos decorativos rosa e ciano atrás dos cartões de produto |
-| 042 | Home (New Form) | sim | fotos em duotone preto e branco inseridas dentro do título |
-| 043 | Shop | sim | fotos de produto recortadas flutuando com sombra suave |
-| 044 | Slush | sim | fita 3D inflada torcendo pela tela, ícones de sticker (foguete, smiley) |
-| 045 | Family | sim | personagens ilustrados à mão estilo desenho, confete colorido |
-| 046 | MindMarket | sim | ilustração paper-cut de pessoas diversas, colorida |
-| 047 | Visitors | sim | textura de gradiente abstrata tipo aquarela roxo e rosa no rodapé |
-| 048 | OFF+BRAND. | não | composição tipográfica minimalista no topo, sem gráfico visível ainda (esfera iridescente descrita no texto fica mais abaixo) |
-| 049 | Seed | sim | foto de produto tratada, potes sobre mesa de madeira, luz natural de janela |
-| 050 | Column | sim | mapa múndi em textura pontilhada com linha de rota curva |
-| 051 | Modal | sim | cubo 3D verde com glow interno intenso, fundo estrelado |
-| 052 | Augen Pro | sim | foto de perfil tratada, dramática, luz de contorno em silhueta |
-| 053 | Integrated Biosciences | sim | forma orgânica 3D abstrata tipo fita translúcida verde |
-| 054 | Geniestudio | sim | ilustrações 3D flutuantes (nuvens, mascote fantasma azul, envelope) |
-| 055 | Hungry Tiger | sim | foto de produto tratada com reflexo de vidro, textura botânica no fundo |
-| 056 | xAI | sim | esfera 3D tipo planeta estrelado no canto, foto pequena de retrato |
-| 057 | Superr | sim | foto de produto tratada, caderno de couro com lápis em ângulo |
-| 058 | Huly | sim | feixe de luz vertical tipo aurora, violeta dissolvendo em coral |
-| 059 | Ease Health | não | dashboard flat de app, retangular, sem textura nem 3D |
-| 061 | Airbnb | não | grid de fotos reais de imóveis, fotografia padrão sem tratamento especial |
-| 062 | Active Theory | sim | anel 3D com reflexo iridescente cromado tipo portal |
-| 063 | Superpower | sim | foto de retrato em silhueta contra glow circular laranja forte |
-| 064 | Ciridae | sim | foto borrada atmosférica, textura de mármore líquido e fumaça |
-| 065 | Claude | sim | ilustração botânica vintage de borboletas |
-| 066 | Dia Browser | sim | foto preto e branco de alto contraste, homem gritando |
-| 067 | ClickUp | não | dashboard flat, retangular |
-| 068 | Jeton | sim | forma 3D orgânica tipo pétala em gradiente rosa e laranja |
-| 069 | ThoughtLab | sim | esfera 3D grande tipo bolha de sabão com reflexo iridescente |
-| 070 | Default | não | screenshots de dashboard flat, retangular |
-| 071 | Cosmos | sim | colagem de fotos tratadas tipo polaroid em ângulos aleatórios |
-| 072 | Mintlify | sim | ilustração de céu e nuvens pintada à mão |
-| 073 | Say Briefly | sim | rabiscos e papel desenhado à mão, destaque de marcador amarelo |
-| 074 | Lamborghini.com | sim | foto de carro tratada, luz de pôr do sol dramática, reflexo no chão |
-| 075 | Antimetal | sim | constelação de pontos pretos conectados por linhas finas |
-| 076 | Apple (España) | não | foto de produto padrão (laptop), gradiente sutil de fundo, sem tratamento forte |
-| 077 | Gleap | não | flat, gradiente pequeno só num card de chat |
-| 078 | Adaline | sim | gráfico de linha orgânico decorativo, tipo caule de planta |
-| 079 | Acctual | sim | ilustração 3D de objetos flutuantes (clipe, teclado, carimbo, faturas rotacionadas) |
-| 080 | Relate | não | flat, gradiente sutil de fundo lavanda |
-| 081 | Ditto | sim | blobs orgânicos coloridos (verde, rosa) atrás do produto |
-| 082 | Wispr Flow | sim | texto em caminho espiral curvo, forma de onda de áudio |
-| 084 | monday.com | não | flat, gradiente só no texto do título |
-| 085 | Perk | não | flat, mockups padrão de dispositivos em ângulo |
-| 086 | Amrit Palace | sim | foto tratada de restaurante à luz de velas, tons quentes |
-| 087 | Getharvest | não | dashboard flat com faixa laranja lateral |
-| 088 | Amplemarket | sim | ilustração de linha (foguete de papel) sobre gradiente de luz roxo e laranja |
-| 089 | Dylanbrouwer | sim | mockup 3D de monitor com forma orgânica rosa saindo da tela, texto com gradiente |
-| 090 | ChatGPT | não | flat, monocromático, minimalista |
-| 091 | Portal | sim | ilustração de crepúsculo com silhuetas de montanhas e robô |
-| 092 | Peak Design | sim | foto de produto tratada, mala aberta meio em luz meio escura |
-| 094 | Portrait | sim | fotos tratadas tipo polaroid espalhadas em ângulos, arco-íris no botão |
-| 095 | AgentQL | sim | glow de aurora violeta e rosa atrás de cartões flutuantes |
-| 096 | Perplexity AI | não | flat, monocromático, minimalista |
-| 097 | Officevibe | sim | gauge circular de score (8.2) no dashboard |
-| 098 | Giga | sim | foto tratada de paisagem, montanhas ao crepúsculo, silhuetas de árvores |
-| 099 | Pirsch Analytics | não | flat, retangular, logos de clientes |
-| 100 | Function | sim | foto de retrato tratada, mulher de perfil ao ar livre, luz natural |
-| 101 | Dock | não | dashboard flat, retangular |
-| 102 | Flying Papers | sim | personagem cartoon ilustrado espiando por trás do texto, estilo riso print |
-| 103 | Dovetail | não | dashboard flat com gráficos de linha coloridos |
-| 104 | Letter | sim | escultura 3D metálica cromada com faísca de luz, gradiente vermelho e roxo |
-| 105 | Slack | não | dashboard flat, retangular |
-| 106 | Apple (España) | sim | foto de produto tratada (Apple Watch), fundo preto dramático, reflexo na tela |
-| 107 | Reflect Notes | sim | portal de luz violeta em arco tipo wormhole |
-| 108 | LaunchDarkly | não | dashboard flat, gráficos pequenos |
-| 109 | Branding (SVZ) | sim | formas geométricas abstratas cinza (aspas de moinho) e esfera vermelha glowing |
-| 110 | T1 Energy | não | foto documental de fábrica, sem tratamento especial |
-| 111 | Dovetail | não | flat escuro com grid de blueprint sutil no fundo |
-| 112 | Ameba | sim | esfera 3D de partículas azuis brilhantes, textura granular |
-| 113 | Clearbit | não | flat, retangular |
-| 114 | Impossible Foods | sim | fotos de comida com recorte de máscara irregular, flutuando em ângulos |
-| 115 | Ramp | não | flat, retangular |
-| 116 | Discord | sim | personagens e mascotes 3D ilustrados coloridos, fundo estrelado |
-| 117 | 11x | sim | foto tratada de terreno/deserto, textura de rocha, tons quentes |
-| 118 | Agence Foudre | sim | forma geométrica grande tipo raio quebrado, rosa contra fundo verde |
-| 119 | 099 SUPPLY | sim | esfera de pontos 3D e silhuetas 3D de objetos (celular, jaqueta, relógio) |
-| 120 | Micro | sim | gradiente de céu azul-verde-turquesa tipo horizonte de campo |
-| 121 | User Interviews | sim | ilustração de linha desenhada à mão de pessoas conectadas por traço |
-| 122 | Revolut | sim | foto de retrato tratada contra céu, cartão flutuante translúcido |
-| 123 | Eindhoven Design District | não | fotos documentais de arquitetura, sem tratamento especial |
-| 124 | Frame.io | sim | foto tratada dramática, silhueta em perfil, luz roxa e azul cinematográfica |
-| 125 | Creative Giants | sim | foto de pele/textura tratada com tipografia duotone sobreposta |
-| 126 | Apple (España) | sim | foto de produto tratada dramática, MacBook Pro em ângulo V, reflexo metálico |
-| 127 | Customer.io | não | dashboard flat |
-| 128 | Ferrari | sim | foto de paisagem de montanha tratada cinematicamente, céu dramático |
-| 129 | N8n | sim | ilustração de raio grande com gradiente laranja e vermelho, glow |
-| 130 | Sauce Labs | sim | ilustração 3D isométrica de dispositivo com linhas de fluxo de conexão |
-| 131 | Titan | não | foto de retrato padrão, sem tratamento especial |
-| 132 | Scheduling (GlossGenius) | sim | foto de pessoas com luz quente natural, contraluz marcado |
-| 134 | PostHog | sim | ilustração 3D isométrica elaborada de mesa de trabalho com jardim e personagem |
-| 135 | sweetgreen | sim | foto de comida tratada, plano de cima saturado, textura de alimento |
-| 136 | Orderful | sim | ilustração isométrica 3D de cartões flutuantes empilhados |
-| 137 | Letters | sim | gradiente de céu azul suave no herói, cartões flutuantes em ângulo |
-| 138 | Neon | sim | visualização de dados tipo waveform vertical verde neon, textura granular |
-| 139 | Quizlet | sim | pequena ilustração de arte grega (vaso) dentro de um cartão |
-| 140 | Phantom | sim | faixas de fita coloridas fluidas tipo seda, textura orgânica |
-| 141 | mono | sim | objeto 3D fino em perspectiva, foto preto e branco tratada, texto rotacionado |
-| 142 | Aker | sim | foto de paisagem tratada, floresta desfocada em tons escuros, moody |
-| 143 | OpenAI | sim | foto de planeta e sol no espaço, tratada |
-| 144 | Duolingo | sim | mascote coruja e personagens ilustrados |
-| 145 | Base44 | sim | gradiente de pôr do sol suave no fundo do herói |
-| 146 | Drive Capital | sim | ilustração de carro retro em line art |
-| 147 | Subframe | sim | objeto 3D preto flutuante com brilho suave |
-| 148 | Impilo | sim | ilustração de linha wireframe de dispositivo médico e mão |
-| 149 | Apple (España) | sim | foto de produto tratada (Apple Watches), telas coloridas, ângulo cinematográfico |
-| 150 | Harness.io | sim | linha 3D curva iluminada tipo trilho, glow branco em fundo escuro |
-| 151 | Karl | sim | ilustração de casas holandesas ao redor de um globo azul, texto orbitando |
-| 153 | Scale | sim | foto aérea tratada de plataforma de petróleo no mar, cinematográfica |
-| 154 | Firecrawl | não | grid de blueprint sutil, flat |
-| 155 | Apple (España) | sim | foto de produto tratada (iPad Air), gradiente azul-roxo na tela |
-| 156 | Passionfroot | sim | gradiente de céu crepúsculo violeta-coral, mascote 3D rosa ilustrado |
-| 157 | teenage engineering | sim | foto de produto tratada em ângulo, luz de estúdio dramática |
-| 158 | Atlassian | sim | formas geométricas coloridas tipo confete (triângulo, recortes irregulares) |
-| 159 | Airtable | sim | fotos de silhuetas tratadas de atletas correndo, alto contraste |
-| 160 | Playful | sim | ícones de apps ilustrados coloridos, gradiente rosa-laranja de fundo |
-| 161 | Changelog (Linear) | sim | textura orgânica tipo fumaça ou linhas brancas sobre preto |
-| 162 | Atlantic.vc | sim | nuvem de partículas azuis granulares |
-| 163 | Limón | sim | foto de comida tratada, plano de cima saturado |
+| 002 | Apple (Spain) | yes | treated product photo, hand holding a green laptop with motion blur on the wrist |
+| 007 | ORYZO AI | yes | top-down product photo, treated, dramatic warm light, object isolated on dark background |
+| 009 | monopo saigon | yes | iridescent liquid shape, sphere-like 3D, green/amber/wine chromatic gradient |
+| 010 | Apple | yes | logo with treated blue light glow, near-black background |
+| 011 | Authkit | yes | stacked frosted translucent glass cards, spotlight-like light from above |
+| 012 | Awesomic | no | flat gray and orange grid, rectangular cards with small portfolio thumbnails |
+| 013 | Auros | yes | textured 3D sphere with green-blue bioluminescent particles |
+| 014 | Monad | yes | data-flow diagram/illustration with nodes, green glow behind a central node |
+| 015 | AI for Business (Dayos) | yes | stacked 3D objects like toy blocks, varied colors, soft shadow |
+| 016 | Origin Financial | yes | treated photo of sky with clouds, full-bleed behind the text |
+| 017 | Dub | no | flat, rectangular dashboard, no texture or 3D |
+| 018 | General Intelligence Company | yes | hand-painted illustration of a skyline at sunset |
+| 019 | Ventriloc | yes | circular progress chart (donut), cards with asymmetric corners |
+| 020 | Seline Analytics | yes | illustrated sticker-like mascot next to the hero |
+| 021 | Duolingo | yes | owl mascot and illustrated characters in the hero |
+| 025 | Hyperstudio | yes | world map in dotted texture (dot matrix), black background |
+| 026 | Hyer Aviation | yes | 3D render of a jet over a sky gradient |
+| 027 | Air | yes | treated photo of sky with blue-to-orange gradient |
+| 028 | Cursor | no | code app screenshots, flat, no texture or 3D |
+| 029 | Gsap | yes | colorful pinwheel icon and twisted ribbon like a DNA helix |
+| 030 | Vivid+Co | yes | 3D glass cube with RGB prismatic light dispersion |
+| 032 | Caldera | yes | orange and purple halftone texture in a cut-out blob shape |
+| 033 | Slash | yes | golden gradient under the chart line on the dark dashboard |
+| 035 | Factory | yes | circular gauges (rings) on the dashboard's metric cards |
+| 036 | Superhuman | yes | treated portrait photo in golden light, translucent glass cards over the photo |
+| 037 | Structured | yes | oil-painting-style illustration, Renaissance-like, textured thickets in the footer |
+| 038 | dope.security | yes | treated photo of sky at dusk with clouds, frosted translucent glass card |
+| 039 | Dimension | yes | amber-to-cobalt-blue light gradient, frosted glass cards, circular icons |
+| 040 | Sequel | yes | treated portrait photo, natural window light, domestic setting |
+| 041 | Calendly.com | yes | decorative organic pink and cyan blobs behind the product cards |
+| 042 | Home (New Form) | yes | black and white duotone photos inserted inside the headline |
+| 043 | Shop | yes | cut-out product photos floating with soft shadow |
+| 044 | Slush | yes | inflated 3D ribbon twisting across the screen, sticker icons (rocket, smiley) |
+| 045 | Family | yes | hand-drawn illustrated characters, colorful confetti |
+| 046 | MindMarket | yes | paper-cut illustration of diverse people, colorful |
+| 047 | Visitors | yes | abstract watercolor-like gradient texture, purple and pink, in the footer |
+| 048 | OFF+BRAND. | no | minimalist typographic composition at the top, no visible graphic yet (an iridescent sphere described in the text appears further down) |
+| 049 | Seed | yes | treated product photo, jars on a wooden table, natural window light |
+| 050 | Column | yes | world map in dotted texture with a curved route line |
+| 051 | Modal | yes | green 3D cube with intense inner glow, starry background |
+| 052 | Augen Pro | yes | treated profile photo, dramatic, rim light in silhouette |
+| 053 | Integrated Biosciences | yes | abstract organic 3D shape like a translucent green ribbon |
+| 054 | Geniestudio | yes | floating 3D illustrations (clouds, blue ghost mascot, envelope) |
+| 055 | Hungry Tiger | yes | treated product photo with glass reflection, botanical texture in the background |
+| 056 | xAI | yes | 3D sphere like a starry planet in the corner, small portrait photo |
+| 057 | Superr | yes | treated product photo, leather notebook with pencil at an angle |
+| 058 | Huly | yes | vertical light beam like an aurora, violet dissolving into coral |
+| 059 | Ease Health | no | flat app dashboard, rectangular, no texture or 3D |
+| 061 | Airbnb | no | grid of real property photos, standard photography with no special treatment |
+| 062 | Active Theory | yes | 3D ring with chrome iridescent reflection like a portal |
+| 063 | Superpower | yes | silhouette portrait photo against a strong orange circular glow |
+| 064 | Ciridae | yes | atmospheric blurred photo, liquid marble and smoke texture |
+| 065 | Claude | yes | vintage botanical illustration of butterflies |
+| 066 | Dia Browser | yes | high-contrast black and white photo, man shouting |
+| 067 | ClickUp | no | flat, rectangular dashboard |
+| 068 | Jeton | yes | organic 3D shape like a petal in a pink and orange gradient |
+| 069 | ThoughtLab | yes | large 3D sphere like a soap bubble with iridescent reflection |
+| 070 | Default | no | flat, rectangular dashboard screenshots |
+| 071 | Cosmos | yes | collage of treated photos, polaroid-like, at random angles |
+| 072 | Mintlify | yes | hand-painted illustration of sky and clouds |
+| 073 | Say Briefly | yes | hand-drawn scribbles and paper, yellow marker highlight |
+| 074 | Lamborghini.com | yes | treated car photo, dramatic sunset light, reflection on the ground |
+| 075 | Antimetal | yes | constellation of black dots connected by thin lines |
+| 076 | Apple (Spain) | no | standard product photo (laptop), subtle background gradient, no heavy treatment |
+| 077 | Gleap | no | flat, small gradient only on a chat card |
+| 078 | Adaline | yes | organic decorative line chart, like a plant stem |
+| 079 | Acctual | yes | 3D illustration of floating objects (paperclip, keyboard, stamp, rotated invoices) |
+| 080 | Relate | no | flat, subtle lavender background gradient |
+| 081 | Ditto | yes | colorful organic blobs (green, pink) behind the product |
+| 082 | Wispr Flow | yes | text on a curved spiral path, audio waveform shape |
+| 084 | monday.com | no | flat, gradient only in the title text |
+| 085 | Perk | no | flat, standard device mockups at an angle |
+| 086 | Amrit Palace | yes | treated photo of a restaurant by candlelight, warm tones |
+| 087 | Getharvest | no | flat dashboard with an orange side stripe |
+| 088 | Amplemarket | yes | line illustration (paper rocket) over a purple and orange light gradient |
+| 089 | Dylanbrouwer | yes | 3D monitor mockup with an organic pink shape coming out of the screen, gradient text |
+| 090 | ChatGPT | no | flat, monochrome, minimalist |
+| 091 | Portal | yes | twilight illustration with mountain silhouettes and a robot |
+| 092 | Peak Design | yes | treated product photo, open bag half in light, half in shadow |
+| 094 | Portrait | yes | treated polaroid-like photos scattered at angles, rainbow on the button |
+| 095 | AgentQL | yes | violet and pink aurora glow behind floating cards |
+| 096 | Perplexity AI | no | flat, monochrome, minimalist |
+| 097 | Officevibe | yes | circular score gauge (8.2) on the dashboard |
+| 098 | Giga | yes | treated landscape photo, mountains at dusk, tree silhouettes |
+| 099 | Pirsch Analytics | no | flat, rectangular, client logos |
+| 100 | Function | yes | treated portrait photo, woman in profile outdoors, natural light |
+| 101 | Dock | no | flat, rectangular dashboard |
+| 102 | Flying Papers | yes | illustrated cartoon character peeking from behind the text, riso-print style |
+| 103 | Dovetail | no | flat dashboard with colorful line charts |
+| 104 | Letter | yes | chrome metallic 3D sculpture with a light spark, red and purple gradient |
+| 105 | Slack | no | flat, rectangular dashboard |
+| 106 | Apple (Spain) | yes | treated product photo (Apple Watch), dramatic black background, reflection on the screen |
+| 107 | Reflect Notes | yes | violet light portal in an arc, wormhole-like |
+| 108 | LaunchDarkly | no | flat dashboard, small charts |
+| 109 | Branding (SVZ) | yes | abstract gray geometric shapes (windmill blades) and a glowing red sphere |
+| 110 | T1 Energy | no | documentary factory photo, no special treatment |
+| 111 | Dovetail | no | dark flat with a subtle blueprint grid in the background |
+| 112 | Ameba | yes | 3D sphere of bright blue particles, granular texture |
+| 113 | Clearbit | no | flat, rectangular |
+| 114 | Impossible Foods | yes | food photos with irregular mask cutouts, floating at angles |
+| 115 | Ramp | no | flat, rectangular |
+| 116 | Discord | yes | colorful illustrated 3D characters and mascots, starry background |
+| 117 | 11x | yes | treated photo of terrain/desert, rock texture, warm tones |
+| 118 | Agence Foudre | yes | large geometric shape like a broken bolt, pink against a green background |
+| 119 | 099 SUPPLY | yes | 3D dot sphere and 3D silhouettes of objects (phone, jacket, watch) |
+| 120 | Micro | yes | blue-green-turquoise sky gradient like a field horizon |
+| 121 | User Interviews | yes | hand-drawn line illustration of people connected by a line |
+| 122 | Revolut | yes | treated portrait photo against the sky, floating translucent card |
+| 123 | Eindhoven Design District | no | documentary architecture photos, no special treatment |
+| 124 | Frame.io | yes | dramatic treated photo, profile silhouette, cinematic purple and blue light |
+| 125 | Creative Giants | yes | treated skin/texture photo with overlaid duotone typography |
+| 126 | Apple (Spain) | yes | dramatic treated product photo, MacBook Pro at a V angle, metallic reflection |
+| 127 | Customer.io | no | flat dashboard |
+| 128 | Ferrari | yes | cinematically treated mountain landscape photo, dramatic sky |
+| 129 | N8n | yes | large bolt illustration with an orange and red gradient, glow |
+| 130 | Sauce Labs | yes | isometric 3D illustration of a device with connection flow lines |
+| 131 | Titan | no | standard portrait photo, no special treatment |
+| 132 | Scheduling (GlossGenius) | yes | photo of people in natural warm light, strong backlight |
+| 134 | PostHog | yes | elaborate isometric 3D illustration of a desk with a garden and a character |
+| 135 | sweetgreen | yes | treated food photo, saturated top-down shot, food texture |
+| 136 | Orderful | yes | 3D isometric illustration of stacked floating cards |
+| 137 | Letters | yes | soft blue sky gradient in the hero, floating cards at an angle |
+| 138 | Neon | yes | vertical waveform-like data visualization in neon green, granular texture |
+| 139 | Quizlet | yes | small Greek art illustration (vase) inside a card |
+| 140 | Phantom | yes | fluid colorful ribbon strips like silk, organic texture |
+| 141 | mono | yes | thin 3D object in perspective, treated black and white photo, rotated text |
+| 142 | Aker | yes | treated landscape photo, blurred forest in dark tones, moody |
+| 143 | OpenAI | yes | treated photo of a planet and sun in space |
+| 144 | Duolingo | yes | owl mascot and illustrated characters |
+| 145 | Base44 | yes | soft sunset gradient in the hero background |
+| 146 | Drive Capital | yes | retro car illustration in line art |
+| 147 | Subframe | yes | floating black 3D object with a soft glow |
+| 148 | Impilo | yes | wireframe line illustration of a medical device and a hand |
+| 149 | Apple (Spain) | yes | treated product photo (Apple Watches), colorful screens, cinematic angle |
+| 150 | Harness.io | yes | curved 3D line, lit like a rail, white glow on a dark background |
+| 151 | Karl | yes | illustration of Dutch houses around a blue globe, text orbiting |
+| 153 | Scale | yes | treated aerial photo of an offshore oil platform, cinematic |
+| 154 | Firecrawl | no | subtle blueprint grid, flat |
+| 155 | Apple (Spain) | yes | treated product photo (iPad Air), blue-purple gradient on the screen |
+| 156 | Passionfroot | yes | violet-coral twilight sky gradient, illustrated pink 3D mascot |
+| 157 | teenage engineering | yes | treated product photo at an angle, dramatic studio light |
+| 158 | Atlassian | yes | colorful confetti-like geometric shapes (triangle, irregular cutouts) |
+| 159 | Airtable | yes | treated silhouette photos of running athletes, high contrast |
+| 160 | Playful | yes | colorful illustrated app icons, pink-orange background gradient |
+| 161 | Changelog (Linear) | yes | organic texture like smoke or white lines over black |
+| 162 | Atlantic.vc | yes | cloud of granular blue particles |
+| 163 | Limón | yes | treated food photo, saturated top-down shot |

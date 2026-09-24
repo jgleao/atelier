@@ -145,7 +145,7 @@ Write `sections.md`:
 
 Read `library/README.md`, then go through the library in batches: scan `library/INDEX.md`, read the findings of
 the batch in `library/findings/`, and **open the captures** in `library/prints/` of anything promising. The
-findings are in Portuguese; the README lists search words. Batch however suits the page: by source, or by part
+README lists good search words. Batch however suits the page: by source, or by part
 (search the index and findings for what each part in `sections.md` asks for). The complete listings in
 `library/lists/` show what exists but was never opened: a name there can be worth a look even without a finding.
 
@@ -281,4 +281,9 @@ Each of these cost at least one rejected round. The why matters more than the ru
   (`node scripts/capture.mjs --help`).
 - `assets/board-template.html`: starting point for the approver's board.
 
-Write the research files in the language of the person you are working with.
+## Language
+
+This skill and its library are written in English, but the work happens in the language of the person you are
+working with: talk to them, write the briefs, the research files (`RULES.md`, `already-used.md`, `sections.md`,
+`curation.md`, the board) and the prototypes' copy in the language they use or ask for. The one exception is the
+library: findings added to it stay in English, so it remains searchable in a single language for everyone.

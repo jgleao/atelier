@@ -43,8 +43,8 @@ scripts/build_index.py    rebuilds library/INDEX.md
 library/                  README, INDEX, findings/, lists/, prints/
 ```
 
-The findings are written in Portuguese (the language of the original run); `library/README.md` lists search
-words for non-Portuguese readers. The method files are in English.
+Everything in the repository is in English. When you use the skill, Claude works and writes the research files
+in the language you use.
 
 ## Authors
 

@@ -6,178 +6,179 @@ Prints: `prints/ref-*.webp`
 
 Design-system breakdowns of real sites. 340 entries listed (the site claims 2,000+, infinite scroll, no index); 14 read in full here. Linear, Resend, Vercel, Raycast, Steep, shadcn/ui, Attio and Stripe were read in an earlier session and have no finding here. A quick yes/no pass over 149 more entries is in `lists/refero-quick-pass.md`.
 
-Snapshot collected on 2026-09-22. Catalogs change; recount before trusting totals. Findings are factual descriptions in Portuguese: `o que tem` (what it has) and `movimento` (motion).
+Snapshot collected on 2026-09-22. Catalogs change; recount before trusting totals. Findings are factual descriptions: `what it has` and `motion`.
 
 ---
 
-## R-043 · Refero · Mercury (banco digital)
+## R-043 · Refero · Mercury (digital bank)
 - link: https://styles.refero.design/style/3172cd4d-118a-4a16-a259-6b634d32322e
 - prints: ref-mercury-01.webp
-- o que tem: ficha de sistema de design (paleta, tipografia, espaçamento, regras), não um shot solto.
-  Tema escuro: fundo quase preto (#171721), cartões um tom mais claro (#1e1e2a) sem nenhuma sombra (a
-  separação vem só da diferença de valor entre os dois cinzas escuros, nunca de drop-shadow). Uma cor de
-  destaque só (azul-cobalto #5266eb), usada exclusivamente no botão principal "Open account", nunca
-  decorativa. Tipografia em peso intermediário (480), nem bold nem regular, título grande com leading bem
-  apertado (1.1). Todos os controles (botão, input, nav) em formato pílula (raio 32-40px); só elementos
-  estruturais usam canto reto de 4px. Herói em foto real full-bleed (mesa isolada no topo de montanha
-  nevoenta) com overlay escuro por trás do texto.
-- regras: nunca mais de 1 cor de destaque por página; nunca sombra em cartão; nunca peso 700+ no título;
-  nunca canto reto (0-4px) em botão/input; espaço vertical generoso entre seções (72px).
+- what it has: design-system data sheet (palette, typography, spacing, rules), not a loose shot.
+  Dark theme: near-black background (#171721), cards one shade lighter (#1e1e2a) with no shadow at all (the
+  separation comes only from the value difference between the two dark grays, never from a drop shadow). One
+  accent color only (cobalt blue #5266eb), used exclusively on the main "Open account" button, never
+  decorative. Mid-weight typography (480), neither bold nor regular, large title with very tight leading
+  (1.1). All controls (button, input, nav) in pill shape (32-40px radius); only structural elements use a
+  4px square corner. Hero in a full-bleed real photo (an isolated desk atop a foggy mountain) with a dark
+  overlay behind the text.
+- rules: never more than 1 accent color per page; never a shadow on a card; never weight 700+ on a title;
+  never a square corner (0-4px) on a button/input; generous vertical space between sections (72px).
 
-## R-044 · Refero · ElevenLabs (voz sintética por IA)
+## R-044 · Refero · ElevenLabs (AI-synthesized voice)
 - link: https://styles.refero.design/style/031056ff-7af1-46db-8daa-115f731c5d26
 - prints: ref-elevenlabs-01.webp
-- o que tem: tema claro em "papel creme": fundo quase branco mas quente (#fdfcfc), nunca branco puro,
-  cartões num bege-taupe (#f5f3f1) um tom abaixo, texto preto puro. Título de destaque numa fonte peso
-  300 (bem fina, "sussurrada") com letras bem juntas (tracking negativo), contrastando com o corpo de
-  texto em peso 400/500 com tracking levemente positivo, o oposto do título. Só 2 cores de destaque (azul
-  #0447ff e laranja #ff4704), mas usadas SÓ dentro de ilustrações de produto (esferas de gradiente tipo
-  "bolha de áudio"), nunca em botão, link ou qualquer parte da interface. Botões 100% em pílula (raio
-  9999px), bordas finas de 1px no lugar de sombra pra separar cartão do fundo.
-- regras: nunca engrossar a fonte de título (peso 300 é assinatura da marca); as 2 cores de destaque
-  nunca podem virar cor de botão/link; sempre bege quente, nunca branco/cinza puro.
+- what it has: light theme in "cream paper": near-white but warm background (#fdfcfc), never pure white,
+  cards in a taupe-beige (#f5f3f1) one shade below, pure black text. Headline title in a weight-300 font
+  (very thin, "whispered") with tight letter spacing (negative tracking), contrasting with body
+  text in weight 400/500 with slightly positive tracking, the opposite of the title. Only 2 accent colors
+  (blue #0447ff and orange #ff4704), but used ONLY inside product illustrations (gradient spheres like
+  "audio bubbles"), never in a button, link or any interface part. Buttons 100% in pill shape (radius
+  9999px), thin 1px borders instead of shadow to separate the card from the background.
+- rules: never thicken the title font (weight 300 is the brand's signature); the 2 accent colors can
+  never become button/link color; always warm beige, never pure white/gray.
 
-## R-045 · Refero · Notion (produtividade/IA)
+## R-045 · Refero · Notion (productivity/AI)
 - link: https://styles.refero.design/style/2bf4c61f-de10-4614-ba1b-20c0453bd2a9
 - prints: ref-notion-01.webp
-- o que tem: tema claro em papel quente (#f6f5f4), cartões brancos com borda fina de 1px, sem sombra
-  nenhuma. Só 1 azul de destaque pro botão principal; todo o resto de cor (laranja, coral, céu, marinho)
-  fica reservado pra pintar o FUNDO de cartões de recurso (cada cartão de feature é uma cor sólida
-  diferente, tipo post-it). No título do herói, uma palavra do meio da frase ganha uma pílula colorida
-  atrás dela (aqui "Create"), técnica de destacar 1 palavra específica dentro da frase toda, sem mudar a
-  fonte. Título gigante com tracking bem negativo (letras quase coladas) nos tamanhos grandes. Fileira de
-  avatares circulares ilustrados (rostinhos redondos com borda colorida) espalhados como pontuação visual,
-  junto com rabiscos e estrelinhas soltas ao redor do texto, sem função nenhuma além de dar vida.
-- regras: nunca branco puro de fundo (sempre o bege); nunca sombra em cartão, só borda fina; nunca mais
-  de 1 botão azul cheio por tela; nunca gradiente, só cor sólida chapada.
+- what it has: light theme in warm paper (#f6f5f4), white cards with a thin 1px border, no shadow at
+  all. Only 1 blue accent for the main button; all other color (orange, coral, sky, navy)
+  is reserved for painting feature card BACKGROUNDS (each feature card is a different solid color,
+  like a post-it). In the hero title, one word in the middle of the sentence gets a colored pill
+  behind it (here "Create"), a technique for highlighting 1 specific word within the whole sentence, without
+  changing the font. Giant title with very negative tracking (letters almost touching) at large
+  sizes. A row of illustrated circular avatars (small round faces with a colored border) scattered as visual
+  punctuation, together with loose doodles and little stars around the text, with no function
+  beyond bringing it to life.
+- rules: never pure white background (always the beige); never a card shadow, only a thin border; never
+  more than 1 solid blue button per screen; never a gradient, only flat solid color.
 
-## R-046 · Refero · Anthropic (pesquisa em IA)
+## R-046 · Refero · Anthropic (AI research)
 - link: https://styles.refero.design/style/d469cba4-c448-4a43-a033-883f8bfcdc42
 - prints: ref-anthropic-01.webp
-- o que tem: tema claro "revista científica em papel pergaminho": fundo bege-marfim (#f0eee6), nunca
-  branco puro, texto quase preto mas com calor (#141413). Corpo de texto inteiro em fonte SERIFADA a 20px
-  (raro em site de tecnologia, a maioria usa sem-serifa até no corpo), título grande em sem-serifa bold
-  ao lado de outro título em serifa mais fina, os dois convivendo lado a lado na mesma página (um "grita",
-  o outro "narra"). Só 1 cor de destaque (terracota #d97757), reservada só pro botão de ação mais
-  importante da tela. Botão preenchido tem cantos arredondados só embaixo (reto em cima), assinatura
-  visual em vez do botão pílula padrão. Card de destaque usa ilustração de prancha naturalista antiga
-  (borboletas e mariposas estilo livro de campo do século 19), colorida em tom terroso combinando com o
-  fundo. Links dentro do texto sempre sublinhados (não só ao passar o mouse), como convenção de material
-  impresso.
-- regras: nunca cor fria (azul, cinza-frio) em lugar nenhum; nunca sombra, só variação sutil de tom entre
-  as camadas de bege; nunca branco puro de superfície; a cor terracota nunca decora, só aparece no botão
-  de ação principal.
+- what it has: light theme, "scientific journal on parchment paper": ivory-beige background (#f0eee6), never
+  pure white, near-black text but warm (#141413). Entire body text in a SERIF font at 20px
+  (rare for a tech site, most use sans-serif even in the body), large sans-serif bold title next to
+  another, thinner serif title, the two coexisting side by side on the same page (one "shouts",
+  the other "narrates"). Only 1 accent color (terracotta #d97757), reserved only for the most
+  important call-to-action button on the screen. The filled button has rounded corners only at the bottom
+  (square on top), a visual signature instead of the standard pill button. Featured card uses an
+  antique naturalist-plate illustration (butterflies and moths in a 19th-century field-guide style),
+  colored in an earthy tone matching the background. Links within the text are always underlined (not
+  only on hover), as a print-material convention.
+- rules: never a cool color (blue, cool gray) anywhere; never a shadow, only a subtle tone
+  variation between beige layers; never pure white as a surface; the terracotta color never decorates,
+  it only appears on the main call-to-action button.
 
-## R-047 · Refero · Cal.com (agendamento)
+## R-047 · Refero · Cal.com (scheduling)
 - link: https://styles.refero.design/style/5d7aa503-8cfa-49a4-bd3b-0c2f0f075c70
 - prints: ref-calcom-01.webp
-- o que tem: tema claro monocromático quase absoluto: preto/grafite/cinza sobre fundo cinza-papel
-  (#f4f4f4), cartões brancos com sombra bem sutil e difusa (nunca borda). Só 1 azul de destaque, usado
-  só em link secundário/banner informativo, nunca em botão principal (o botão principal é preto sólido).
-  Fonte própria (Cal Sans) só nos títulos, geométrica mas "amigável"; corpo de texto numa variante bem
-  leve da mesma família com tracking negativo apertado. Botões de página em pílula (9999px); só o botão
-  do cabeçalho fixo usa canto reto de 8px (regra específica por contexto, não por hierarquia). Imagem é
-  só print de produto real (calendário funcionando) e logo de integração (Google, etc.), nunca foto nem
-  ilustração.
-- regras: nunca introduzir cor nova além do azul único; nunca canto reto em botão/cartão fora do
-  cabeçalho; nunca peso de fonte acima de 600; nunca borda em cartão (só sombra).
+- what it has: nearly absolute monochromatic light theme: black/graphite/gray on a paper-gray
+  background (#f4f4f4), white cards with a very subtle, diffuse shadow (never a border). Only 1
+  accent blue, used only on a secondary link/informational banner, never on the main button (the main
+  button is solid black). Custom font (Cal Sans) only on titles, geometric but "friendly"; body
+  text in a much lighter variant of the same family with tight negative tracking. Page buttons in
+  pill shape (9999px); only the fixed header button uses an 8px square corner (a rule specific to
+  context, not to hierarchy). Imagery is only real product screenshots (a working calendar) and
+  integration logos (Google, etc.), never photo or illustration.
+- rules: never introduce a new color beyond the single blue; never a square corner on a button/card outside the
+  header; never a font weight above 600; never a border on a card (only shadow).
 
-## R-048 · Refero · Supabase (banco de dados/dev tools)
+## R-048 · Refero · Supabase (database/dev tools)
 - link: https://styles.refero.design/style/632249f1-fd78-4c77-9b34-7bae37ff3e9b
 - prints: ref-supabase-01.webp
-- o que tem: "editor de código à meia-noite": fundo quase preto, 99% da tela em escala de cinza, e 1 verde
-  fósforo vibrante (#3ecf8e) só em CTA, destaque de título e logo. Título do herói em 2 linhas, segunda
-  linha ("Scale to millions") inteira na cor verde por cima da primeira em branco: aqui a "palavra de
-  destaque" vira a FRASE inteira de uma linha, não só 1 palavra. Fonte geométrica (Circular) em peso
-  regular, sem bold gritando. Botões em pílula. Cartões flutuam 1 nível acima do fundo por contraste de
-  borda, não por sombra. Logos de clientes em cinza monocromático abaixo do herói, tira de "recursos"
-  (Postgres Database, Authentication) com ícone pequeno + título curto.
+- what it has: "code editor at midnight": near-black background, 99% of the screen in grayscale, and 1 vibrant
+  phosphor green (#3ecf8e) only on CTAs, title highlights and the logo. Hero title in 2 lines, second
+  line ("Scale to millions") entirely in green over the first in white: here the "highlighted
+  word" becomes the whole PHRASE of one line, not just 1 word. Geometric font (Circular) in regular
+  weight, no bold shouting. Buttons in pill shape. Cards float 1 level above the background through border
+  contrast, not shadow. Client logos in monochrome gray below the hero, a "features" strip
+  (Postgres Database, Authentication) with a small icon + short title.
 
-## R-049 · Refero · Framer (construtor de sites)
+## R-049 · Refero · Framer (site builder)
 - link: https://styles.refero.design/style/d417b42f-824d-45ba-a02e-cbef3b8ea0d8
 - prints: ref-framer-01.webp
-- o que tem: "galeria neon no vazio": tela quase 100% preta (#000000), conteúdo flutua como "letreiro de
-  neon numa galeria" com pouquíssimos degraus de cinza pra dar profundidade (nada de gradiente). Um azul
-  elétrico único (#0099ff) em borda, brilho, badge e estado ativo, nunca decorativo. Título com tracking
-  bem negativo e entrelinha apertada (0.8-1.1), tipografia "comprimida" que empurra pra frente em vez de
-  ficar quieta na página. Seção "Shipped with Framer" mostra 3 sites reais lado a lado em miniatura
-  (foto de mesa de trabalho, still de vídeo com rosto de pessoa e legenda, paisagem de nuvem), como prova
-  social visual em vez de logo de empresa.
+- what it has: "neon gallery in the void": nearly 100% black screen (#000000), content floats like a "neon
+  sign in a gallery" with very few gray steps to give depth (no gradient at all). A single electric
+  blue (#0099ff) on border, glow, badge and active state, never decorative. Title with very negative tracking
+  and tight leading (0.8-1.1), "compressed" typography that pushes forward instead of sitting quietly on
+  the page. "Shipped with Framer" section shows 3 real sites side by side as thumbnails
+  (a workspace desk photo, a video still with a person's face and caption, a cloud landscape), as
+  visual social proof instead of a company logo.
 
-## R-050 · Refero · Headspace (saúde mental)
+## R-050 · Refero · Headspace (mental health)
 - link: https://styles.refero.design/style/035a098b-5a27-48a3-8a3a-c68a698e3eab
 - prints: ref-headspace-01.webp
-- o que tem: "retiro de bem-estar ensolarado em papel quente": fundo creme (#f9f4f2), texto nunca preto
-  puro (cinza-carvão quente). Faixa fina laranja no topo da página com aviso pequeno. Formas bem
-  arredondadas em tudo (cantos de 16-32px em cartão, pílula de 9999px em botão/elemento circular).
-  Ilustração de personagem tipo blob (círculo laranja com carinha) ao lado do nome da marca. Mockup de
-  celular com FOTO REAL de pessoa (homem de óculos) dentro da tela do app, não ilustração. Várias cores
-  de destaque, cada uma com um significado emocional específico (amarelo = energia, azul = ação
-  principal, violeta = contemplação), ao contrário da maioria da coleta que usa só 1 cor.
+- what it has: "sunny wellness retreat on warm paper": cream background (#f9f4f2), text never pure
+  black (warm charcoal gray). Thin orange stripe at the top of the page with a small notice. Very
+  rounded shapes throughout (16-32px corners on cards, 9999px pill on button/circular elements).
+  Blob-style illustrated character (orange circle with a little face) next to the brand name. Phone
+  mockup with a REAL PHOTO of a person (a man with glasses) inside the app screen, not an illustration. Several
+  accent colors, each with a specific emotional meaning (yellow = energy, blue = main
+  action, violet = contemplation), unlike most of the collection, which uses only 1 color.
 
-## R-051 · Refero · Runway (planejamento financeiro)
+## R-051 · Refero · Runway (financial planning)
 - link: https://styles.refero.design/style/874aaea0-c718-454e-8a58-f3beed1284ec
 - prints: ref-runway-01.webp
-- o que tem: "caderno-razão de papel kraft sob luz de mesa âmbar": fundo creme (#f8f7f5), cartões brancos,
-  divisórias num tom bege-linho, texto num marrom-café escuro (nunca preto), tudo "impresso" em vez de
-  "renderizado". Só 1 cor de destaque âmbar, funcionando como marca-texto só no botão de ação principal.
-  Fonte humanista com pesos não convencionais (492, 584 em vez de 400/600). Print de produto real logo
-  abaixo do herói: dashboard financeiro com gráfico de área em cores pastel suaves (lilás, verde-água),
-  tabela de métricas (ARR, Cash, Average ACV) ao lado do gráfico.
+- what it has: "kraft-paper ledger under amber desk light": cream background (#f8f7f5), white cards,
+  linen-beige dividers, dark coffee-brown text (never black), everything "printed" rather than
+  "rendered". Only 1 amber accent color, functioning as a highlighter only on the main call-to-action button.
+  Humanist font with unconventional weights (492, 584 instead of 400/600). Real product screenshot right
+  below the hero: financial dashboard with an area chart in soft pastel colors (lilac, aqua green),
+  a metrics table (ARR, Cash, Average ACV) next to the chart.
 
-## R-052 · Refero · Wise (câmbio/pagamento internacional)
+## R-052 · Refero · Wise (foreign exchange/international payment)
 - link: https://styles.refero.design/style/367c0c6e-73a7-441c-a8ff-91d139ac60dc
 - prints: ref-wise-01.webp
-- o que tem: tema claro, mas "gritado": verde-floresta bem escuro (#163300) é a cor DOMINANTE (não só
-  destaque) em texto, nav e seções escuras; um verde-lima elétrico (#9fe870) funciona como pontuação
-  funcional em botão e aba ativa. Título do herói gigante (100px+), caixa alta, peso 900, letras bem
-  juntas ("MONEY FOR HERE, THERE AND EVERYWHERE"), tom mais "gritado" que a maioria dos achados
-  encontrados até aqui. Ilustração 3D de um globo azul-turquesa com moedas douradas flutuando ao redor,
-  em vez de foto ou print de produto. Botões em pílula, cartões com raio pequeno (10px).
+- what it has: light theme, but "shouted": very dark forest green (#163300) is the DOMINANT color (not just
+  an accent) in text, nav and dark sections; an electric lime green (#9fe870) works as functional
+  punctuation on buttons and the active tab. Giant hero title (100px+), uppercase, weight 900, letters very
+  tight together ("MONEY FOR HERE, THERE AND EVERYWHERE"), a more "shouted" tone than most of the
+  findings encountered so far. 3D illustration of a blue-turquoise globe with golden coins floating
+  around it, instead of a photo or product screenshot. Buttons in pill shape, cards with a small radius (10px).
 
-## R-053 · Refero · Todoist (lista de tarefas)
+## R-053 · Refero · Todoist (to-do list)
 - link: https://styles.refero.design/style/729ba7a8-35d5-44f3-abc0-1078ff6a3467
 - prints: ref-todoist-01.webp
-- o que tem: "mesa de trabalho ensolarada com planner de papel": fundo quase branco mas quente, texto
-  quase preto, 1 vermelho-laranja de destaque só em botão/rótulo, nunca decorativo. Atrás dos mockups de
-  produto (print de celular + desktop flutuando), ondas decorativas bem suaves em tom creme (formas
-  orgânicas de baixo contraste, quase imperceptíveis, só textura de fundo). Faixa de depoimentos em
-  citação itálica curta ("Simple, straightforward, and super powerful") ao lado de logos de imprensa
-  pequenos (The Verge, PC Mag, TechRadar) em vez de logos de clientes. Estrelinhas/sparkles soltas perto
-  do botão principal.
+- what it has: "sunny desk with a paper planner": near-white but warm background, near-black
+  text, 1 red-orange accent used only on button/label, never decorative. Behind the product
+  mockups (phone + desktop screenshot floating), very soft decorative waves in a cream tone
+  (organic low-contrast shapes, almost imperceptible, just background texture). Testimonial strip
+  in a short italic quote ("Simple, straightforward, and super powerful") next to small press
+  logos (The Verge, PC Mag, TechRadar) instead of client logos. Loose stars/sparkles near
+  the main button.
 
-## R-054 · Refero · GitHub (código/colaboração)
+## R-054 · Refero · GitHub (code/collaboration)
 - link: https://styles.refero.design/style/c3ceca5c-d329-4559-b947-016172941ba2
 - prints: ref-github-01.webp
-- o que tem: "convés de comando cósmico": fundo quase preto (#0d1117) com uma atmosfera radial violeta
-  atrás do herói, 1 verde de destaque só no botão principal, funcionando como "cursor de terminal" trazido
-  pra interface. Título simples branco/cinza, sem tratamento especial. Flutuando no meio do herói, 3 a 4
-  esferas 3D glossy coloridas (roxo, rosa, laranja) tipo planetas/bolhas de sabão, sem conexão nenhuma com
-  texto ou ícone, só decoração ambiental. Abaixo, print real de editor de código com destaque de sintaxe
-  colorida (chat "GitHub Copilot" ao lado de um arquivo de código). Elevação feita só por borda (não
-  sombra); botões em 2 formas diferentes de propósito (pílula pra navegação/tag, retângulo de canto raso
-  pra botão de ação).
+- what it has: "cosmic command deck": near-black background (#0d1117) with a violet radial atmosphere
+  behind the hero, 1 accent green only on the main button, functioning as a "terminal cursor" brought
+  into the interface. Simple white/gray title, no special treatment. Floating in the middle of the hero, 3 to 4
+  glossy colorful 3D spheres (purple, pink, orange) like planets/soap bubbles, with no connection to
+  text or icon, just ambient decoration. Below, a real code editor screenshot with colored syntax
+  highlighting (a "GitHub Copilot" chat next to a code file). Elevation done only through border (not
+  shadow); buttons in 2 different shapes by purpose (pill for navigation/tag, shallow-corner rectangle
+  for action button).
 
-## R-055 · Refero · Intercom (atendimento/helpdesk)
+## R-055 · Refero · Intercom (customer support/helpdesk)
 - link: https://styles.refero.design/style/12255b63-e506-4bc1-a4cd-d05487de32f3
 - prints: ref-intercom-01.webp
-- o que tem: "revista editorial em papel creme": fundo bege bem claro, tipografia toda em peso 300 (bem
-  fina) pro corpo E pro título, dando um ar "sussurrado". Cantos de TODO elemento (botão, cartão, campo)
-  são retos, só 4px de raio: é uma exceção que rejeita de propósito a tendência de cantos bem arredondados
-  que domina a maioria da coleta. Faixa de 6 fotos editoriais bem diferentes entre si lado a lado (céu,
-  silhueta em contraluz, gradiente de pôr do sol, close de olho, ilustração de flor rabiscada à mão,
-  still abstrato), tipo mood board de revista, não fotos de produto. Abaixo, abas de texto simples
-  (sem ícone) alternando o que aparece no print de produto embaixo.
-- regras: nunca mais de 4px de raio em nenhum elemento; nunca sombra decorativa; a cor violeta só em
-  ícone/tag pontual, nunca em área grande.
+- what it has: "editorial magazine on cream paper": very light beige background, typography entirely in weight 300
+  (very thin) for both body AND title, giving a "whispered" feel. Every element's corners (button,
+  card, field) are square, only a 4px radius: it is an exception that deliberately rejects the
+  very-rounded-corners trend that dominates most of the collection. Strip of 6 very different editorial
+  photos side by side (sky, backlit silhouette, sunset gradient, close-up eye, hand-drawn scribbled
+  flower illustration, abstract still life), like a magazine mood board, not product photos.
+  Below, simple text tabs (no icon) alternating what appears in the product screenshot below.
+- rules: never more than 4px radius on any element; never a decorative shadow; the violet color only
+  in a punctual icon/tag, never in a large area.
 
-## R-056 · Refero · Webflow (construtor de sites)
+## R-056 · Refero · Webflow (site builder)
 - link: https://styles.refero.design/style/31471407-598a-45fd-a505-d921980d8855
 - prints: ref-webflow-01.webp
-- o que tem: "estúdio branco, tinta preta, 1 marca azul": fundo branco quase puro com leve gradiente
-  azul-clarinho por trás só do herói (dá profundidade sem virar cor de fundo geral), texto quase preto,
-  1 azul saturado de destaque. Título monumental (56-80px), fonte geométrica variável com tracking bem
-  negativo. Print de produto sempre embutido dentro de moldura de navegador realista (barra de endereço,
-  botões de janela), nunca solto. 3 blocos de recurso lado a lado, cada um com nome curto + mini preview
-  (AI site builder / Template / From scratch). Fileira de logos de clientes bem conhecidos (monday.com,
-  Spotify, TED, Dropbox) no rodapé do herói.
+- what it has: "white studio, black ink, 1 brand blue": nearly pure white background with a slight
+  light-blue gradient behind only the hero (gives depth without becoming an overall background color), near-black
+  text, 1 saturated accent blue. Monumental title (56-80px), variable geometric font with very
+  negative tracking. Product screenshot always embedded inside a realistic browser frame (address
+  bar, window buttons), never loose. 3 feature blocks side by side, each with a short name + mini
+  preview (AI site builder / Template / From scratch). Row of well-known client logos (monday.com,
+  Spotify, TED, Dropbox) at the bottom of the hero.

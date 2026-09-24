@@ -39,20 +39,20 @@ Totals: 532 findings, 1,620 captures. Each findings file starts with its own cov
 
 ## Findings
 
-Written in Portuguese. Each block:
+Written in English, whatever the language of the run that adds them, so the library stays searchable in one
+language. Each block:
 
 ```
 ## F-037 · <source> · <item>
 - link: <url>
 - prints: rb-<item>-t01.webp ... -t06.webp
-- o que tem: (what it has) shape, light, color, texture, type, composition. Facts only.
-- movimento: (motion) what moves, trigger, order, duration. "Parado" when still.
+- what it has: shape, light, color, texture, type, composition. Facts only.
+- motion: what moves, trigger, order, duration. "Still" when nothing moves.
 ```
 
-Useful search words, since the text is Portuguese: `vidro` (glass), `luz` (light), `sombra` (shadow), `brilho`
-(glow), `grão` / `ruído` (grain / noise), `degradê` (gradient), `relevo` (relief), `partícula`, `esfera`, `fita`
-(ribbon), `onda` (wave), `rolagem` (scroll), `mouse` / `ponteiro` (pointer), `sozinho` (plays by itself),
-`clique`, `texto`, `cartão` (card), `mockup`, `celular`, `notebook`, `papel` (paper).
+Search by material and behaviour rather than by name: `glass`, `light`, `shadow`, `glow`, `grain`, `noise`,
+`gradient`, `relief`, `particle`, `sphere`, `ribbon`, `wave`, `scroll`, `pointer`, `cursor`, `by itself`, `click`,
+`text`, `card`, `mockup`, `phone`, `laptop`, `paper`.
 
 ## Prints
 
